@@ -1,0 +1,6 @@
+[submodule "themes/binario"]
+	path = themes/binario
+	url = https://github.com/vimux/binario
+[submodule "public"]
+	path = public
+	url = https://github.com/FoxTechWorld/FoxTechWorld.github.io

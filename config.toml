@@ -1,0 +1,6 @@
+baseURL = 'http://FoxTechWorld.github.io/'
+languageCode = 'pt-br'
+title = 'FoxTechWorld'
+theme = 'binario'
+[permalinks]
+  posts = "/:filename/"
