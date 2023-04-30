@@ -2,5 +2,7 @@ baseURL = 'http://FoxTechWorld.github.io/'
 languageCode = 'pt-br'
 title = 'FoxTechWorld'
 theme = 'binario'
+googleAnalytics="G-T8PSN4T418"
+
 [permalinks]
   posts = "/:filename/"
