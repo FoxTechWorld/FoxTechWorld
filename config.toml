@@ -7,6 +7,26 @@ googleAnalytics="G-T8PSN4T418"
 
 [Author]
   name = "KitsuneSemCalda"
+  bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"
 
-[permalinks]
-  posts = "/:filename/"
+[Params]
+  opengraph = true
+  schema = true
+  mathjax = true
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+  columns = 2
+  mainSections = ["post"]
+  colorTheme = "dark-green"
+  authorbox = true
+  comments = true
+  related = true
+  relatedMax = true
+
+[Params.Entry]
+  meta = ["date", "categories", "tags"]
+  toc = true
+  tocOpen = true
+
+[Params.Social]
+  github = "KitsuneSemCalda"
