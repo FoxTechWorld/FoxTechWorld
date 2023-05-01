@@ -21,6 +21,7 @@ Vou mostrar hoje como se escreve um pilha usando lista ligada em C++:
 Repare que as funções básicas de uma pilha está apenas em empilhar e desempilhar mas podemos adicionar funções extras que verificam e a pilha, que realizem algum processo ao desempilhar e etc.
 
 
+
 ```cpp
 
 #include <iostream>
@@ -80,3 +81,9 @@ Mas nesse caso devemos lidar com o problema de inserir em uma pilha cheia.
 | Conversão de número decimal para binário           |
 | Retirada de mercadorias de um caminhão de entregas |
 | Recurso de desfazer e refazer em aplicações        |
+| Compiladores e Interpretadores                     |
+| Sistemas Operacionais                              |
+| Jogos                                              |
+| Gerenciadores de eventos                           |
+| Analise de dados                                   |
+| Sistemas de buscas                                 |
