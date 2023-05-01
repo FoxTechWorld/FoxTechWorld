@@ -18,6 +18,8 @@ Existem duas formas de implementarmos a pilha, usando [lista ligada](https://fox
 
 Vou mostrar hoje como se escreve um pilha usando lista ligada em C++:
 
+Repare que as funções básicas de uma pilha está apenas em empilhar e desempilhar mas podemos adicionar funções extras que verificam e a pilha, que realizem algum processo ao desempilhar e etc.
+
 
 ```cpp
 
@@ -71,3 +73,10 @@ A ideia é expandir infinitamente a pilha o que em ambiente de um pc mais potent
 Em caso de de necessitarmos de usarmos essa estrutura em um ambiente mais limitado como embarcados, devemos usar uma implementação com vetores ao invês de lista ligada.
 
 Mas nesse caso devemos lidar com o problema de inserir em uma pilha cheia.
+
+| Lista de Aplicações Que Usam Pilha                 |
+|----------------------------------------------------|
+| Calculadora para expressões matemáticas            |
+| Conversão de número decimal para binário           |
+| Retirada de mercadorias de um caminhão de entregas |
+| Recurso de desfazer e refazer em aplicações        |
