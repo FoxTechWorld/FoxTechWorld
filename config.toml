@@ -5,6 +5,7 @@ theme = 'binario'
 paginate = '10'
 disqusShortname="foxtechworld"
 googleAnalytics="G-T8PSN4T418"
+
 [Author]
   name = "KitsuneSemCalda"
   bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"
@@ -18,10 +19,6 @@ googleAnalytics="G-T8PSN4T418"
   columns = 2
   mainSections = ["posts"]
   colorTheme = "dark-green"
-  authorbox = true
-  comments = true
-  related = true
-  relatedMax = true
 
 [Params.Entry]
   meta = ["date", "categories", "tags"]
