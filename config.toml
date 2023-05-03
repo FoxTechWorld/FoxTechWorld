@@ -108,11 +108,7 @@ name = "Tag"
 name = "Another tag"
 
 [[menu.main]]
-url = "/"
-name = "Home"
-[[menu.main]]
-url = "/posts/"
-name = "Posts"
+comments = true
 
 [params.comments]
 enable = true
