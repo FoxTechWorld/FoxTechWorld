@@ -32,7 +32,7 @@ mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
 mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 columns = 2
 mainSections = ["posts"]
-colorTheme = "dark-green"
+colorTheme = "dark-red"
 
 [Params.Entry]
 meta = ["date", "categories", "tags"]
