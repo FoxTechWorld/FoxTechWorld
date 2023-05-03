@@ -5,8 +5,6 @@ theme = 'binario'
 paginate = '10'
 disqusShortname="foxtechworld"
 googleAnalytics="G-T8PSN4T418"
-enableRobotsTXT=true
-
 [Author]
   name = "KitsuneSemCalda"
   bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"
@@ -91,21 +89,21 @@ enableRobotsTXT=true
     maxAge = -1
 
 [frontmatter]
-description: "Example article description"
+description = "Example article description"
 categories:
   - "Category 1"
   - "Category 2"
 tags:
   - "Tag"
   - "Another tag"
-menu: main # Add page to a menu. Options: main, footer
+menu = main
 
-comments: true 
-authorbox: true 
-toc: true 
-tocOpen: true 
-mathjax: true 
-related: true 
+comments = true 
+authorbox= true 
+toc= true 
+tocOpen= true 
+mathjax= true 
+related= true 
 meta:
   - date
   - categories
