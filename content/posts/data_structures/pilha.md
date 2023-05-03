@@ -81,9 +81,3 @@ Mas nesse caso devemos lidar com o problema de inserir em uma pilha cheia.
 | Conversão de número decimal para binário           |
 | Retirada de mercadorias de um caminhão de entregas |
 | Recurso de desfazer e refazer em aplicações        |
-| Compiladores e Interpretadores                     |
-| Sistemas Operacionais                              |
-| Jogos                                              |
-| Gerenciadores de eventos                           |
-| Analise de dados                                   |
-| Sistemas de buscas                                 |
