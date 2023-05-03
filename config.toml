@@ -1,112 +1,136 @@
-baseURL = 'http://FoxTechWorld.github.io/'
-languageCode = 'pt-br'
-title = 'FoxTechWorld'
-theme = 'binario'
-paginate = '10'
-disqusShortname="foxtechworld"
-googleAnalytics="G-T8PSN4T418"
+baseURL = "http://FoxTechWorld.github.io/"
+languageCode = "pt-br"
+title = "FoxTechWorld"
+theme = "binario"
+paginate = 10
+disqusShortname = "foxtechworld"
+googleAnalytics = "G-T8PSN4T418"
 
 [Author]
-  name = "KitsuneSemCalda"
-  bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"
+name = "KitsuneSemCalda"
+bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"
 
 [Params]
-  opengraph = true
-  schema = true
-  mathjax = true
-  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
-  mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
-  columns = 2
-  mainSections = ["posts"]
-  colorTheme = "dark-green"
+opengraph = true
+schema = true
+mathjax = true
+mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
+columns = 2
+mainSections = ["posts"]
+colorTheme = "dark-green"
 
 [Params.Entry]
-  meta = ["date", "categories", "tags"]
-  toc = true
-  tocOpen = true
+meta = ["date", "categories", "tags"]
+toc = true
+tocOpen = true
 
 [Params.Social]
-  github = "KitsuneSemCalda"
-  linkedin = "arthur-augusto-magalhães-55761b220"
+github = "KitsuneSemCalda"
+linkedin = "arthur-augusto-magalhães-55761b220"
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+posts = "/:year/:month/:title/"
 
 [minify]
-  disableCSS = false
-  disableHTML = false
-  disableJS = false
-  disableJSON = false
-  disableSVG = false
-  disableXML = false
-  minifyOutput = false
-  [minify.tdewolff]
-    [minify.tdewolff.css]
-      keepCSS2 = true
-      precision = 0
-    [minify.tdewolff.html]
-      keepComments = false
-      keepConditionalComments = true
-      keepDefaultAttrVals = true
-      keepDocumentTags = true
-      keepEndTags = true
-      keepQuotes = false
-      keepWhitespace = false
-    [minify.tdewolff.js]
-      keepVarNames = false
-      noNullishOperator = false
-      precision = 0
-    [minify.tdewolff.json]
-      keepNumbers = false
-      precision = 0
-    [minify.tdewolff.svg]
-      keepComments = false
-      precision = 0
-    [minify.tdewolff.xml]
-      keepWhitespace = false
+disableCSS = false
+disableHTML = false
+disableJS = false
+disableJSON = false
+disableSVG = false
+disableXML = false
+minifyOutput = false
 
-[caches]
-  [caches.assets]
-    dir = ':resourceDir/_gen'
-    maxAge = -1
-  [caches.getcsv]
-    dir = ':cacheDir/:project'
-    maxAge = -1
-  [caches.getjson]
-    dir = ':cacheDir/:project'
-    maxAge = -1
-  [caches.getresource]
-    dir = ':cacheDir/:project'
-    maxAge = -1
-  [caches.images]
-    dir = ':resourceDir/_gen'
-    maxAge = -1
-  [caches.modules]
-    dir = ':cacheDir/modules'
-    maxAge = -1
+[minify.tdewolff.css]
+keepCSS2 = true
+precision = 0
+
+[minify.tdewolff.html]
+keepComments = false
+keepConditionalComments = true
+keepDefaultAttrVals = true
+keepDocumentTags = true
+keepEndTags = true
+keepQuotes = false
+keepWhitespace = false
+
+[minify.tdewolff.js]
+keepVarNames = false
+noNullishOperator = false
+precision = 0
+
+[minify.tdewolff.json]
+keepNumbers = false
+precision = 0
+
+[minify.tdewolff.svg]
+keepComments = false
+precision = 0
+
+[minify.tdewolff.xml]
+keepWhitespace = false
+
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = -1
+
+[caches.getcsv]
+dir = ":cacheDir/:project"
+maxAge = -1
+
+[caches.getjson]
+dir = ":cacheDir/:project"
+maxAge = -1
+
+[caches.getresource]
+dir = ":cacheDir/:project"
+maxAge = -1
+
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = -1
+
+[caches.modules]
+dir = ":cacheDir/modules"
+maxAge = -1
 
 [frontmatter]
 description = "Example article description"
-[categories]
+
 [categories.list]
 name = "Category 1"
-[categories.list]
+[[categories.list]]
 name = "Category 2"
 
-[tags]
 [tags.list]
 name = "Tag"
-[tags.list]
+[[tags.list]]
 name = "Another tag"
 
-[menu]
-main = {}
-comments = true # Enable/disable Disqus comments for specific page
-authorbox = true # Enable/disable Authorbox for specific page
-toc = true # Enable/disable Table of Contents for specific page
-tocOpen = true # Open Table of Contents block for specific page
-mathjax = true # Enable/disable MathJax for specific page
-related = true # Enable/disable Related content for specific page
+[[menu.main]]
+url = "/"
+name = "Home"
+[[menu.main]]
+url = "/posts/"
+name = "Posts"
+
+[params.comments]
+enable = true
+
+[params.authorbox]
+enable = true
+
+[params.toc]
+enable = true
+
+[params.tocOpen]
+enable = true
+
+[params.mathjax]
+enable = true
+
+[params.related]
+enable = true
 
 [meta]
 include_date = true
