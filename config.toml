@@ -15,6 +15,10 @@ googleAnalytics = "G-T8PSN4T418"
   name = 'Categories'
   pageRef = '/categories/'
   weight = 20
+[[menu.main]]
+  name = "Tags"
+  pageRef = "/tags/"
+  weight = 30
 
 [Author]
 name = "KitsuneSemCalda"
