@@ -90,21 +90,28 @@ googleAnalytics="G-T8PSN4T418"
 
 [frontmatter]
 description = "Example article description"
-categories:
-  - "Category 1"
-  - "Category 2"
-tags:
-  - "Tag"
-  - "Another tag"
-menu = main
+[categories]
+[categories.list]
+name = "Category 1"
+[categories.list]
+name = "Category 2"
 
-comments = true 
-authorbox= true 
-toc= true 
-tocOpen= true 
-mathjax= true 
-related= true 
-meta:
-  - date
-  - categories
-  - tags
+[tags]
+[tags.list]
+name = "Tag"
+[tags.list]
+name = "Another tag"
+
+[menu]
+main = {}
+comments = true # Enable/disable Disqus comments for specific page
+authorbox = true # Enable/disable Authorbox for specific page
+toc = true # Enable/disable Table of Contents for specific page
+tocOpen = true # Open Table of Contents block for specific page
+mathjax = true # Enable/disable MathJax for specific page
+related = true # Enable/disable Related content for specific page
+
+[meta]
+include_date = true
+include_categories = true
+include_tags = true
