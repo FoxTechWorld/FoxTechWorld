@@ -93,3 +93,7 @@ maxAge = -1
 [caches.modules]
 dir = ":cacheDir/modules"
 maxAge = -1
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
