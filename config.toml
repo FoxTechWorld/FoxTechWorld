@@ -3,7 +3,9 @@ languageCode = 'pt-br'
 title = 'FoxTechWorld'
 theme = 'binario'
 paginate = '10'
+disqusShortname="foxtechworld"
 googleAnalytics="G-T8PSN4T418"
+enableRobotsTXT=true
 
 [Author]
   name = "KitsuneSemCalda"
@@ -87,3 +89,24 @@ googleAnalytics="G-T8PSN4T418"
   [caches.modules]
     dir = ':cacheDir/modules'
     maxAge = -1
+
+[frontmatter]
+description: "Example article description"
+categories:
+  - "Category 1"
+  - "Category 2"
+tags:
+  - "Tag"
+  - "Another tag"
+menu: main # Add page to a menu. Options: main, footer
+
+comments: true 
+authorbox: true 
+toc: true 
+tocOpen: true 
+mathjax: true 
+related: true 
+meta:
+  - date
+  - categories
+  - tags

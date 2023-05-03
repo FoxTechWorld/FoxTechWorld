@@ -1,6 +1,13 @@
 ---
 title: "Pilha"
 date: 2023-04-30T14:58:21-03:00
+description: "Estrutura de dados pilha"
+categories:
+  - "Data Structure"
+  - "Programming"
+tags:
+  - "Programming"
+  - "Technology"
 ---
 
 Seguindo o artigo anterior sobre listas ligadas, hoje vou falar sobre pilhas.
@@ -19,7 +26,6 @@ Existem duas formas de implementarmos a pilha, usando [lista ligada](https://fox
 Vou mostrar hoje como se escreve um pilha usando lista ligada em C++:
 
 Repare que as funções básicas de uma pilha está apenas em empilhar e desempilhar mas podemos adicionar funções extras que verificam e a pilha, que realizem algum processo ao desempilhar e etc.
-
 
 
 ```cpp

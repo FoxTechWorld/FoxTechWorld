@@ -1,6 +1,12 @@
 ---
 title: "Usei bash para deployar este site"
 date: 2023-04-30T01:06:17-03:00
+description: "Criei um script para deployar este site na web"
+categories:
+  - "Programming"
+tags:
+  - "Programming"
+  - "Technology"
 ---
 
 Isso mesmo galera, fiz um script bash para gerar o conteúdo que aparece em vossas telas.
