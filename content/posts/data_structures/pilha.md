@@ -7,7 +7,7 @@ categories:
   - "Programming"
 tags:
   - "Programming"
-  - "Technology"
+  - "Tecnology"
 ---
 
 Seguindo o artigo anterior sobre listas ligadas, hoje vou falar sobre pilhas.

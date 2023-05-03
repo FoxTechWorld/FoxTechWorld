@@ -7,7 +7,7 @@ categories:
   - "Programming"
 tags:
   - "Programming"
-  - "Technology"
+  - "Tecnology"
 ---
 
 A fila é outra das estruturas de dados mais simples e mais importantes que temos atualmente.

@@ -6,7 +6,7 @@ categories:
   - "Programming"
 tags:
   - "Programming"
-  - "Technology"
+  - "Tecnology"
 ---
 
 Isso mesmo galera, fiz um script bash para gerar o conteúdo que aparece em vossas telas.

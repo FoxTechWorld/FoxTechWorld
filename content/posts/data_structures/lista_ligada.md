@@ -7,7 +7,7 @@ categories:
   - "Programming"
 tags:
   - "Programming"
-  - "Technology"
+  - "Tecnology"
 ---
 
 A lista ligada é uma das estruturas mais simples na matéria de estruturas de dados. 
