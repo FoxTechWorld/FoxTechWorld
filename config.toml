@@ -97,3 +97,6 @@ maxAge = -1
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+[Params.Breadcrumb]
+  enable = true
