@@ -6,6 +6,16 @@ paginate = 10
 disqusShortname = "foxtechworld"
 googleAnalytics = "G-T8PSN4T418"
 
+[menu]
+[[menu.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+[[menu.main]]
+  name = 'Categories'
+  pageRef = '/categories/'
+  weight = 20
+
 [Author]
 name = "KitsuneSemCalda"
 bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"

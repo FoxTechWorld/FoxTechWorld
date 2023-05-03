@@ -14,7 +14,7 @@ A heap será a ultima estrutura de dados que será apresentada por enquanto nest
 E com isso irei iniciar novos assuntos.
 
 A heap é uma estrutura de dados que pode ser implementada com arranjos e como [lista ligada](https://foxtechworld.github.io/lista_ligada/), mas podemos reconhece-la
-como fila de prioridades. E apesar de ser uma lista linear tratamos a heap como uma [arvoré de busca binária](https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria_de_busca)
+como fila de prioridades. E apesar de ser uma lista linear tratamos a heap como uma [árvore de busca binária](https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria_de_busca)
 
 Não vou aprofundar em árvores neste momento, mas deixo o link livre a quem estiver interessado.
 
