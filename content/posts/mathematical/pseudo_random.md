@@ -44,11 +44,11 @@ Com tudo isso dito sobre a geração de números pseudo-aleatórios. Tenha o seg
 
 0.2 0.5 0.7 0.1 0.4
 
-Se você somar as duas sequências, a sequência resultante será:
+3. Se você somar as duas sequências, a sequência resultante será:
 
 0.3 1.3 1.1 0.4 1.3
 
-Note que a soma introduziu um padrão, com valores repetidos aparecendo em várias posições. 
+**Note que a soma introduziu um padrão, com valores repetidos aparecendo em várias posições.** 
 
 Este padrão não estava presente nas sequências originais.
 
