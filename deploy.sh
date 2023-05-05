@@ -2,7 +2,7 @@
 
 commit="no message for this commit"
 [[ "${1}" ]] && commit=${1}
-hugo --gc --minify --verbose
+hugo --gc --minify --verbose --verboseLog
 
 function public_deploy(){
   cd public
