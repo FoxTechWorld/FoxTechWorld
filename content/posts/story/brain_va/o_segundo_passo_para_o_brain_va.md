@@ -58,5 +58,3 @@ class ChatBotFactory:
         pass
 pass
 ```
-
-- [Primeiro Passo](https://foxtechworld.github.io/2023/05/meu-novo-projeto-brain-va/)

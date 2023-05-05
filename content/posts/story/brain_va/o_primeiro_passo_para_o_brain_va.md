@@ -62,5 +62,4 @@ A partir disso podemos começar a trabalhar no robô da wikipedia, prompt e gpt.
 
 O proximo passo é definir claramente o inicio de nossa estrutura factory que vai começar a produzir os arquivos de prolog que serão uma base lógica para esse projeto.
 
-- [Meu novo Projeto](https://foxtechworld.github.io/2023/05/meu-novo-projeto-brain-va/)
 - [Segundo Passo](https://foxtechworld.github.io/2023/05/o-segundo-passo-para-o-brain-va/)
