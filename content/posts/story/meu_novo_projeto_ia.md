@@ -25,3 +25,5 @@ Agora para a segunda etapa podemos criar uma api em golang que comunique com ess
 Dessa forma podemos ter um sistema de pergunta e resposta mais simples, e usar tratamento de erro para coisas desconhecidas serem pesquisadas e adicionadas ao sistema depois recompilado e executando em ordem.
 
 Pretendo fazer mais posts implementando esse sistema mais para frente e possivelmente criando meu VA.
+
+- [Primeiro Passo](https://foxtechworld.github.io/2023/05/o-primeiro-passo-para-o-brain-va/)
