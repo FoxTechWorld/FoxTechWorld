@@ -16,7 +16,7 @@ Como eu estou criando o projeto do zero, eu prefiro criar uma função get_arg p
 
 Depois disso basta eu definir uma Factory que inicie tudo automaticamente, alguns testes com injeção de dependencia e pronto teremos um projeto feito para rodar perfeitamente.
 
-PS: Apesar de usar uma linguagem lógica por trás, isto não é uma inteligencia artificial e sim um chatbot que saiba definir corretamente regras e fatos. Para qualquer dúvida temos na wikipedia esplicações sobre o [prolog](https://pt.wikipedia.org/wiki/Prolog)
+PS: Apesar de usar uma linguagem lógica por trás, isto não é uma inteligencia artificial e sim um chatbot que saiba definir corretamente regras e fatos. Para qualquer dúvida temos na wikipedia explicações sobre o [prolog](https://pt.wikipedia.org/wiki/Prolog)
 
 ```python
 import sys
