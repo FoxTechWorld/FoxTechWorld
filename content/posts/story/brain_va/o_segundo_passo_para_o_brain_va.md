@@ -4,11 +4,9 @@ date: 2023-05-05T10:25:56-03:00
 description: "definindo o design pattern do brain VA"
 
 categories:
-  - "Programming"
-  - "Projetos"
+  - "Tecnology"
 tags:
   - "Brain VA"
-  - "Tecnology"
   - "Programming"
 
 comments: true

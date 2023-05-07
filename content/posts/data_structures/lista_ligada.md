@@ -4,12 +4,11 @@ date: 2023-04-30T00:17:12-03:00
 description: "Estrutura de dados lista ligada"
 
 categories:
-  - "Data Structure"
-  - "Programming"
-
+    - Tecnology
+    - Data Structure
 tags:
-  - "Programming"
-  - "Tecnology"
+    - Studying
+    - Programming
 
 comments: true
 authorbox: true

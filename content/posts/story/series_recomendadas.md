@@ -4,11 +4,9 @@ date: 2023-05-06T19:08:44-03:00
 description: "My Favorited Series is recomended"
 
 categories:
-  - "Series"
   - "Geek"
 tags:
   - "Recomendações"
-  - "Series"
 
 comments: true
 authorbox: true

@@ -9,7 +9,7 @@ categories:
 
 tags:
   - "Mathematical"
-  - "Pseudo Random"
+  - "Studying"
 
 comments: true
 authorbox: true

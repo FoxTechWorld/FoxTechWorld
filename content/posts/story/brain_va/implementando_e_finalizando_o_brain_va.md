@@ -4,11 +4,9 @@ date: 2023-05-07T09:07:28-03:00
 description: "Implementando as funções da factory do Brain VA e finalizando o projeto"
 
 categories:
-  - "Programming"
-  - "Projetos"
+  - "Tecnology"
 tags:
   - "Brain VA"
-  - "Tecnology"
   - "Programming"
 
 comments: true

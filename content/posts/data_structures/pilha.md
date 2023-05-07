@@ -4,13 +4,11 @@ date: 2023-04-30T14:58:21-03:00
 description: "Estrutura de dados pilha"
 
 categories:
-  - "Data Structure"
-  - "Programming"
-
+    - Tecnology
+    - Data Structure
 tags:
-  - "Programming"
-  - "Tecnology"
-
+    - Studying
+    - Programming
 comments: true
 authorbox: true
 ---

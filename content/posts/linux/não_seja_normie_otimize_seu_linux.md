@@ -7,7 +7,7 @@ categories:
   - "Geek"
   - "Tecnology"
 tags:
-  - "Tecnology"
+  - "Linux"
   - "OpenSource"
 
 comments: true

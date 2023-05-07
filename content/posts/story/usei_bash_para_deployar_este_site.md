@@ -4,10 +4,9 @@ date: 2023-04-30T01:06:17-03:00
 description: "Criei um script para deployar este site na web"
 
 categories:
-  - "Programming"
+  - "Tecnology"
 tags:
   - "Programming"
-  - "Tecnology"
 
 comments: true
 authorbox: true

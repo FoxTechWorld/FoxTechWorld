@@ -4,12 +4,11 @@ date: 2023-05-03T16:51:33-03:00
 description: "Estrutura de Dados Heap"
 
 categories:
-  - "Data Structure"
-  - "Programming"
+    - Tecnology
+    - Data Structure
 tags:
-  - "Programming"
-  - "Tecnology"
-
+    - Studying
+    - Programming
 comments: true
 authorbox: true
 ---
