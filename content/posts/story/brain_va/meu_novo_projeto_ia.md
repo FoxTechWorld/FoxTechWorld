@@ -2,6 +2,7 @@
 title: "Meu novo projeto Brain VA"
 date: 2023-05-04T11:03:04-03:00
 description: "Meu projeto de auxilio para criação de Assistente Virtuais"
+
 categories:
   - "Programming"
   - "Projetos"
@@ -9,6 +10,9 @@ tags:
   - "Tecnology"
   - "Programming"
   - "Brain VA"
+
+comments: true
+authorbox: true
 ---
 
 Essa tarde tive uma ideia sobre como tornar um Virtual Assistente um pouco mais esperto sem necessariamente precisar de uma IA treinada.

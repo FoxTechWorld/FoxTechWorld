@@ -2,12 +2,16 @@
 title: "Heap"
 date: 2023-05-03T16:51:33-03:00
 description: "Estrutura de Dados Heap"
+
 categories:
   - "Data Structure"
   - "Programming"
 tags:
   - "Programming"
   - "Tecnology"
+
+comments: true
+authorbox: true
 ---
 
 A heap será a ultima estrutura de dados que será apresentada por enquanto neste blog. Podemos com ela encerrar a primeira temporada de estrutura de dados.

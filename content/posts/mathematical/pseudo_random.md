@@ -2,12 +2,17 @@
 title: "Pseudo random number"
 date: 2023-05-04T08:39:04-03:00
 description: "Como são gerados números pseudo aleátorios"
+
 categories:
   - "Mathematical"
   - "Tecnology"
+
 tags:
   - "Mathematical"
   - "Pseudo Random"
+
+comments: true
+authorbox: true
 ---
 
 Um número verdadeiramente aleátorio é impossivel com a computação porque a computação é deterministica.

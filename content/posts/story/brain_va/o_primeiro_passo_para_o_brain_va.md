@@ -9,6 +9,9 @@ tags:
   - "Brain VA"
   - "Tecnology"
   - "Programming"
+
+comments: true
+authorbox: true
 ---
 
 Neste momento, estou interessado em usar o design pattern de factory. E como primeiro passo eu decidi montar a linha de comando (sem argparse) para o projeto.
