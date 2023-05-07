@@ -8,7 +8,6 @@ categories:
   - "Tecnology"
 
 tags:
-  - "Mathematical"
   - "Studying"
 
 comments: true
