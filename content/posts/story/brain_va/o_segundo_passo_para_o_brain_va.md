@@ -65,4 +65,3 @@ pass
 
 [Finalizando projeto](https://foxtechworld.github.io/2023/05/implementando-e-finalizando-o-brain-va/)
 
-[Source Code](https://github.com/KitsuneSemCalda/brain-VA)

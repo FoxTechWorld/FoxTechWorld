@@ -146,3 +146,5 @@ Usamos o prompt que gera o código em prolog passando o contéudo
 E passamos esse prompt para a classe Gpt, depois geramos usamos a função generate e passamos para a classe PrologFile junto do termo da pesquisa, assim executamos a função create e geramos o arquivo prolog.
 
 Com essa combinação temos uma aplicação que gera código prolog que pode compilado/linkado e ter um prompt de pesquisa.
+
+[Finalizando projeto](https://foxtechworld.github.io/2023/05/implementando-e-finalizando-o-brain-va/)
