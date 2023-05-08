@@ -1,5 +1,5 @@
 ---
-title: "Não seja normie otimize seu linux"
+title: "Não seja normie, otimize seu linux"
 date: 2023-05-07T14:54:46-03:00
 description: "Otimizando o linux like a pro"
 

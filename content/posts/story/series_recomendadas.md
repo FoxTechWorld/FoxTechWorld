@@ -1,5 +1,5 @@
 ---
-title: "Series recomendadas"
+title: "Series cartoon que eu recomendado"
 date: 2023-05-06T19:08:44-03:00
 description: "My Favorited Series is recomended"
 
@@ -16,7 +16,7 @@ Dando um tempo de posts técnicos, hoje vim mostrar um pouco do meu gosto pessoa
 Claro que gosto é gosto, e possívelmente o que você goste provavelmente eu não goste ou vice versa. 
 Mas eu sugiro que você de uma chance as séries que serão mostradas aqui
 
-** Séries que vão mudar o seu ponto de vista**
+**Séries que vão mudar o seu ponto de vista**
 
 - Entrelinhas Pontilhadas
 
