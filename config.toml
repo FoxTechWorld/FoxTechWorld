@@ -39,9 +39,6 @@ meta = ["date", "categories", "tags"]
 toc = true
 tocOpen = true
 
-[Params.meta]
-favicon = false
-
 [Params.Social]
 github = "KitsuneSemCalda"
 linkedin = "arthur-augusto-magalhães-55761b220"
