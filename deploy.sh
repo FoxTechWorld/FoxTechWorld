@@ -4,8 +4,13 @@ commit="no message for this commit"
 [[ "${1}" ]] && commit=${1}
 hugo --gc --minify --verbose --verboseLog
 
+function remove_binario_icon(){
+  rm apple-touch-icon.png
+}
+
 function public_deploy(){
   cd public
+  remove_binario_icon
   git add .
   git commit -m "${commit}"
   git push origin main
