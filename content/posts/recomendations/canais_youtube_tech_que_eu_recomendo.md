@@ -55,7 +55,7 @@ PS: Se você tem amor a si mesmo, e aos seus ouvidos, por favor desabilite a **m
 <br>
 
 
-- **[Ben Eater](https://www.youtube.com/@BenEater)<br>
+- **[Ben Eater](https://www.youtube.com/@BenEater)**<br>
     Aprenda sobre o baixo nível com este cara, ele explica perfeitamente coisas com checksum, clock sincronization, protocolos tudo a baixo nível
 <br>
 
