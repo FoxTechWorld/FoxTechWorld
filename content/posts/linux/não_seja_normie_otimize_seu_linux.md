@@ -13,14 +13,28 @@ comments: true
 authorbox: true
 ---
 
+###### O que é linux?
 O linux é um dos 3 grandes sistemas operacionais, e assim como MacOSX ele puxa as ideias do Unix.
+
 Não confunda (linux não é Unix, e o MacOSX não segue os preceitos do Unix). 
+
 Tanto que o kernel Xnu da apple significa (X is not Unix), mais ainda sim ambos são suficientemente compativeis para ter compatibilidade em nível de código fonte.
 
+```
+
+Para quem é mais técnico, o linux em si não é um sistema operacional completo, ele é apenas um núcleo como o NT (kernel do Windows) e o XNU (kernel do MacOSX).
+Na maioria das distribuições usamos ferramentas gnu sobre o linux (apesar de já não ser mais a norma), hoje em dia temos centenas de distribuições e trabalhos.
+
+```
+
 Ou seja, tudo o que eu codar no linux só preciso recompilar no MacOSX para rodar (não é tão simples assim em alguns casos, mas pode ocorrer em outros).
+
 Enfim, se você está fugindo do Windows e quer começar a ter uma experiencia Unix, vá para o linux.
 
 Hoje em dia o linux roda na maioria dos Hardwares suficientemente bem. 
+
+
+
 Então bora deixar de ser normie e começar a customizar essa bagaça.
 
 Os passos são bem simples do que você tem que fazer.
@@ -99,7 +113,9 @@ systemctl enable ananicy
 ```
 
 Com esse conjunto de texto podemos ter uma boa ideia de como customizar o linux para ter uma performance(tempo real).
+
 Isso não é uma configuração definitiva, cada pc tem uma configuração e está apenas uma configuração geral. 
+
 Você deve tomar responsabilidade de pesquisar sobre sua maquina e tirar o melhor dela, no ponto de que antigamente a computação era mais qualificada pois todos sabiam tirar o melhor de uma maquina fraca, agora tire o melhor de uma maquina forte.
 
 Apesar de esse ser um post em especifico sempre vale a pena ler a archwiki para descobrir novas formas de retirar o máximo da sua maquina.

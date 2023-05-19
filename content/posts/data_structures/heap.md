@@ -13,13 +13,22 @@ comments: true
 authorbox: true
 ---
 
-A heap será a ultima estrutura de dados que será apresentada por enquanto neste blog. Podemos com ela encerrar a primeira temporada de estrutura de dados.
+###### O que é uma Heap?
+
+A heap será a ultima estrutura de dados que será apresentada por enquanto neste blog. 
+
+Podemos com ela encerrar a primeira temporada de estrutura de dados.
+
 E com isso irei iniciar novos assuntos.
 
 A heap é uma estrutura de dados que pode ser implementada com arranjos e como [lista ligada](https://foxtechworld.github.io/lista_ligada/), mas podemos reconhece-la
-como fila de prioridades. E apesar de ser uma lista linear tratamos a heap como uma [árvore de busca binária](https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria_de_busca)
+como fila de prioridades. 
+
+E apesar de ser uma lista linear tratamos a heap como uma [árvore de busca binária](https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria_de_busca)
 
 Não vou aprofundar em árvores neste momento, mas deixo o link livre a quem estiver interessado.
+
+###### Casos de uso de heaps
 
 Assim sendo, a heap tem as funções de inserir, remover, corrige Subindo, corrige descendo essas sendo suas principais funções. E normalmente as heaps são utilizadas em:
 
@@ -35,6 +44,8 @@ Assim sendo, a heap tem as funções de inserir, remover, corrige Subindo, corri
 | Algoritmos de caminho mínimo         |
 | Sistemas de Cache                    |
 
+
+###### Exemplo de heap em c++
 E aqui definimos nossa estrutura de heap em c++ usando lista ligada.
 
 ```cpp
@@ -146,6 +157,7 @@ protected:
 ```
 
 Repare que as funções de corrige subindo e corrige descendo são chamadas de heapifyUp e heapifyDown, eles estão protegidos por protected pois são de extrema importancia para o funcionamento da MaxHeap.
+
 E realmente não precisamos de ter seu funcionamento exposto, pois sua chamada poderia ser implementada diretamente após a inserção (veja que eu não botei isso no exemplo).
 
 Além disso, veja que usamos root, mas não dividimos em esquerda e direita, o corrige subindo e descendo que balancea o heap como se fosse um balanceador de arvore binária
