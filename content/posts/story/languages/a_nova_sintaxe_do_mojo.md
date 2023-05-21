@@ -23,7 +23,7 @@ print("Hello World!)
 Sim, quando eu disse que Mojo era um superset de python foi justamente sobre isso que eu tava falando. Segundo a espectativa de seu criador a ideia é conseguir importar e usar livremente libs python existetntes e usa-los da forma convencional.
 A diferença sendo que o Mojo tem uma grande quantidade de recursos que o Python não possui suporte.
 
-#### Vamos começar com as váriaveis:
+##### Vamos começar com as váriaveis:
 
 Mojo possui suporte a **var** e **let** dentro do sistema.
 Dentro de uma função em python, você pode atribuir valores a um nome e isso cria implicitamente uma váriavel de escopo de função.
@@ -74,7 +74,7 @@ your_function()
 
 Olha que coisa linda é  esse superset.
 
-#### Tipo Struct:
+##### Tipo Struct:
 
 Quando trabalharmos em sistemas modernos precisamos de uma forma segura de construir abstrações e de alto nível sobre o controle do Layout de dados de baixo nível, acesso ao campo livre de indireção e outros truques de nicho. Mojo oferece suporte a isso usando o tipo `struct` (novamente lembrando de C e Rust).
 Os tipos [structs](https://en.wikipedia.org/wiki/Struct_(C_programming_language)) são muito parecidos com classes, no entanto as classes são estremamente dinamicas com [dispatch dinâmico](https://pt.wikipedia.org/wiki/Liga%C3%A7%C3%A3o_din%C3%A2mica_(programa%C3%A7%C3%A3o_orientada_a_objetos)), [monkey-patching](https://en.wikipedia.org/wiki/Monkey_patch).
@@ -96,7 +96,7 @@ struct MyPair:
 
 A maior diferença em comparação com a classe é que todas as propriedades devem ser explicitamente declaradas com **var** ou **let**.
 
-#### Tipificação forte:
+##### Tipificação forte:
 
 Embora tenhamos tipos dinâmicos no python, o Mojo permite que você use tipificação forte em seus programas.
 Uma das formas de empregar a verificação de tipo forte é com o struct.

@@ -13,7 +13,7 @@ comments: true
 authorbox: true
 ---
 
-###### O que é uma Heap?
+##### O que é uma Heap?
 
 A heap será a ultima estrutura de dados que será apresentada por enquanto neste blog. 
 

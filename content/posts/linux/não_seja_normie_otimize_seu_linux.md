@@ -13,7 +13,7 @@ comments: true
 authorbox: true
 ---
 
-###### O que é linux?
+##### O que é linux?
 O linux é um dos 3 grandes sistemas operacionais, e assim como MacOSX ele puxa as ideias do Unix.
 
 Não confunda (linux não é Unix, e o MacOSX não segue os preceitos do Unix). 
