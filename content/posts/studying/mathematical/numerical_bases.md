@@ -100,4 +100,4 @@ Passo 6: Invertemos o resto e temos: 11001
 ```
 
 Olha que interessante, podemos reduzir todo esse processo para a seguinte equação:
-\[ x = \sum_{i=0}^{M} m_{i+1} \cdot n^i \]
+\\[ x = \sum_{i=0}^{M} m_{i+1} \cdot n^i \\]
