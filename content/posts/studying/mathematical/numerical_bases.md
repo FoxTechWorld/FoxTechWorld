@@ -12,6 +12,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 ##### O que são bases númericas?
@@ -98,4 +99,5 @@ Passo 5: Dividimos 1 por 2 => Quociente 0 e resto 1
 Passo 6: Invertemos o resto e temos: 11001
 ```
 
-
+Olha que interessante, podemos reduzir todo esse processo para a seguinte equação:
+\[ x = \sum_{i=0}^{M} m_{i+1} \cdot n^i \]
