@@ -10,6 +10,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 No post anterior sobre o Mojo, eu contei um pouquinho sobre a linguagem criada pela empresa do Chris Lattner a Modular, e alguns aspectos interessantes da mesma. 

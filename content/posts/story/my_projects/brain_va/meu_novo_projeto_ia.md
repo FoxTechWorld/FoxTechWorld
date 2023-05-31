@@ -11,6 +11,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 Essa tarde tive uma ideia sobre como tornar um Virtual Assistente um pouco mais esperto sem necessariamente precisar de uma IA treinada.

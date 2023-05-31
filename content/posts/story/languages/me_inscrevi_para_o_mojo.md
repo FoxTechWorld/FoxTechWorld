@@ -10,6 +10,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 Galera, me inscrevi na lista para testar a nova linguagem de progmamação Mojo, que segundo eles é a combinação perfeita entre a usabilidade do python com a performance do C.

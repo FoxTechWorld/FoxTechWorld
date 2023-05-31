@@ -12,6 +12,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 A lista ligada é uma das estruturas mais simples na matéria de estruturas de dados. 

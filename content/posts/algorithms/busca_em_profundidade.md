@@ -12,6 +12,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 ###### Algoritmo de Busca em Profundidade

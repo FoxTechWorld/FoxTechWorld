@@ -11,6 +11,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 Chegamos ao ponto final do projetos onde falta terminar de implementar as classes do factory e torna-lo funcional.

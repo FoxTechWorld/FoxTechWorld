@@ -11,6 +11,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 ##### O que é linux?

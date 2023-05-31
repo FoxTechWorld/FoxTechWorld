@@ -11,6 +11,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 Com o primeiro passo completo estamos indo para o segundo passo, definir as estruturas da [Factory](https://pt.wikipedia.org/wiki/F%C3%A1brica_(programa%C3%A7%C3%A3o_orientada_a_objetos))

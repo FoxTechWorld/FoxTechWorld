@@ -12,6 +12,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 ##### Para começar vamos contextualizar o que é um grafo.

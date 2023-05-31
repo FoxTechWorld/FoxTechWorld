@@ -10,6 +10,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 Dando um tempo de posts técnicos, hoje vim mostrar um pouco do meu gosto pessoal para Séries.

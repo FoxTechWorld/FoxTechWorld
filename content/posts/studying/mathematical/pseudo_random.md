@@ -12,6 +12,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 Um número verdadeiramente aleátorio é impossivel com a computação porque a computação é deterministica.

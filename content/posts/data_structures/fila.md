@@ -11,6 +11,7 @@ tags:
     - Programming
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 ##### O que é uma fila?

@@ -11,6 +11,7 @@ tags:
 
 comments: true
 authorbox: true
+mathjax: true
 ---
 
 Eae galera, como vocês estão? Hoje vim mostrar alguns canais de tecnologia que eu acompanho e assisto.
