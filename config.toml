@@ -5,6 +5,7 @@ theme = "binario"
 paginate = 10
 disqusShortname = "foxtechworld"
 googleAnalytics = "G-T8PSN4T418"
+enableRobotsTXT = true
 
 [menu]
 [[menu.main]]
