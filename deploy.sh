@@ -28,6 +28,7 @@ function repo_deploy(){
 }
 
 function deploy(){
+  move_site_config;
   public_deploy;
   repo_deploy
 }
