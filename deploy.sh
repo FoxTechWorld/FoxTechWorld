@@ -5,8 +5,10 @@ commit="no message for this commit"
 hugo --gc --minify --verbose --verboseLog
 
 function move_site_config(){
-  cp ./public/sitemap.xml ./static/
-  cp ./public/robots.txt ./static/
+  cp ./static/robots.txt ./public/robots.txt
+  cp ./public/robots.txt ./static/robots.txt
+  cp ./public/sitemap.xml ./static/sitemap.xml
+  cp ./static/sitemap.xml ./public/sitemap.xml
 }
 function remove_binario_icon(){
   rm apple-touch-icon.png
