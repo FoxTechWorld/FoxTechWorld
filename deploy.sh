@@ -3,8 +3,11 @@
 commit="no message for this commit"
 [[ "${1}" ]] && commit=${1}
 hugo --gc --minify --verbose --verboseLog
-cp ./public/sitemap.xml ./static/
 
+function move_site_config(){
+  cp ./public/sitemap.xml ./static/
+  cp ./public/robots.txt ./static/
+}
 function remove_binario_icon(){
   rm apple-touch-icon.png
 }
