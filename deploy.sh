@@ -9,6 +9,7 @@ function remove_binario_icon(){
 }
 
 function public_deploy(){
+  cp ./static/robots.txt ./public/robots.txt
   cd public
   remove_binario_icon
   git add .
