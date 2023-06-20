@@ -24,13 +24,11 @@ function repo_deploy(){
 }
 
 function deploy(){
-  move_site_config;
   public_deploy;
   repo_deploy
 }
 
 function start(){
-  move_site_config;
   deploy
 }
 
