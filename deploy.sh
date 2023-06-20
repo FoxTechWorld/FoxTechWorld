@@ -34,6 +34,7 @@ function deploy(){
 }
 
 function start(){
+  move_site_config;
   deploy
 }
 
