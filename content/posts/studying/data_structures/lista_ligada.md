@@ -17,6 +17,8 @@ mathjax: true
 
 A lista ligada é uma das estruturas mais simples na matéria de estruturas de dados. 
 
+![Estrutura de Dados: Linked List](https://media.geeksforgeeks.org/wp-content/uploads/20220712172013/Singlelinkedlist.png)
+
 E ouso dizer que também chega a ser uma das mais importantes.
 
 Pois com ela podemos criar estruturas muito mais complexas.
@@ -32,6 +34,15 @@ Class Node{
         Node(int new_value){
             Value = new_value;
             next = NULL;
+        }
+};
+
+Class LinkedList{
+    private:
+        Node* Head;
+    public:
+        LinkedList(){
+            Head = NULL;
         }
 };
 ```

@@ -21,6 +21,8 @@ Bom, neste caso você utiliza outros algoritmos para reduzir o tamanho dos grafo
 
 A implementação básica do Union-Find utiliza uma matriz ou vetor para representar os conjuntos e cada elemento possui uma referencia a seu "pai" ou a si próprio caso não haja pai. Veja que cada elemento é considerado uma árvore isolada.
 
+![Estrutura de Dados: Union-Find](https://cgi.luddy.indiana.edu/~yye/c343-2019/images/Figure6.5.png)
+
 As duas principais operações de um disjoint-set são `Find` e `Union` que aprimoram a velocidade de pesquisa pela `compressão do caminho` onde atualiza - se todos os ponteiros do "pai" dos elementos visitados durante o Find, de forma que eles apontem diretamente para a raiz do conjunto. Essa compressão do caminho tem um impacto significativo na velocidade de busca pois reduz a altura da árvore que representa o conjunto. Quando o elemento é pesquisado, a árvore é percorrida até encontrar a raiz que é o representante do conjunto. Durante o percurso, os ponteiros do pai são atualizados para apontar diretamente para a raiz, encurtando o caminho percorrido.
 
 Aqui está um exemplo de implementação do Union Finds em c++:
