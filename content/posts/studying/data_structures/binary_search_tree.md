@@ -53,8 +53,6 @@ class Node{
 
 Perceberam a mudança? agora ao invês de apontarmos para o Node seguinte, apontamos para sua representação a esquerda e a direita, voltando novamente um árvore segue seus galhos a esquerda e a direita.
 
-![Exemplo de Árvore de Busca Binary / example of Binary Search Tree](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
-
 Para ser intuitivo, uma nova inserção caso seja menor que o root vai para a esquerda, caso seja maior que o root vai para direita.
 
 Se temos um novo Nó podemos definir a estrutura de árvore assim:

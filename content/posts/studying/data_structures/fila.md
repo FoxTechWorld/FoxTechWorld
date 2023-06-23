@@ -19,8 +19,6 @@ mathjax: true
 A fila é outra das estruturas de dados mais simples e mais importantes que temos atualmente.
 Podemos implementa-la de duas formas, usando vetores ou listas ligadas que eu já havia citado neste [post](https://foxtechworld.github.io/lista_ligada/).
 
-![Estrutura de dados: Fila](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213111946/fifo-property-in-Queue.png)
-
 ##### Quais são as principais operações de uma fila?
 
 A fila também tem duas operações principais:

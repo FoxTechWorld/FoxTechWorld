@@ -27,8 +27,6 @@ como fila de prioridades.
 
 E apesar de ser uma lista linear tratamos a heap como uma [árvore de busca binária](https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria_de_busca)
 
-![Estrutura de Dados: Heap](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221220165711/MinHeapAndMaxHeap1.png)
-
 Não vou aprofundar em árvores neste momento, mas deixo o link livre a quem estiver interessado.
 
 ###### Casos de uso de heaps
