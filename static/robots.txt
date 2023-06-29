@@ -4,4 +4,5 @@ Allow: /
 Disallow: /categories/ 
 Disallow: /tags/ 
 
-Sitemap: https://foxtechworld.github.io/sitemap.xml
+Sitemap: https://foxtechworld.github.io/sitemap.xml?redirect=true&start-index=1&max-results=500
+
