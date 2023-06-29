@@ -32,7 +32,7 @@ Enfim, para quem não sabe estou fazendo faculdade e pretendo nas proximas féri
 Mas o primeiro passo é fazer uma formatação do meu pc, estou interessado em migrar para o Arch Linux fazendo uma customização mínima, não sei porque existe essa divisão no Linux onde um usuário só pode ser visto como intermediário assim que instala o Arch puro.
 
 ```
-Instalar arch puro é basicamente seguir todas as etapas da arch wiki sem o apoio do archinstall, ou usando uma iso custom que facilite
+Instalar arch puro é basicamente seguir todas as etapas da arch wiki sem o apoio do archinstall, ou sem usar uma iso custom que facilite
 ```
 
 minhas ideia é basicamente instalar um KDE minimo (com um [Rice de MacOS](https://www.youtube.com/watch?v=y4yPm9s3KVg&ab_channel=LinuxScoop), e não me julgue por gostar da estetica da apple), talvez colocar um [conky ao canto esquerdo](https://www.youtube.com/watch?v=mIdIuRuVOkc&ab_channel=OPinguimCriativo) de forma que fique belo ao desenvolvedor mostrando informações uteis.
