@@ -1,4 +1,7 @@
 User-agent: *
+
 Allow: /
+Disallow: /categories/ 
+Disallow: /tags/ 
 
 Sitemap: https://foxtechworld.github.io/sitemap.xml
