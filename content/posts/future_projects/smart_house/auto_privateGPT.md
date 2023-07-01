@@ -52,7 +52,7 @@ O privateGPT só pode digerir arquivos especificos de tipo:
 
 Então temos duas opções, criamos uma pasta especifica que vai conter os items que serão digeridos e abrimos um link simbolico para está pasta ou usa o NAS inteiro para fazer isso. Eu particularmente prefiro a primeira opção, afinal podemos economizar ainda mais o espaço guardando imagens, vídeos ... etc em outras pastas.
 
-Então suponha que vamos com a segunda opção e criamos uma pasta especifica para os arquivos, vamos usar o rsync direto para envia-los? sua resposta é não. Não vale a pena enviar tudo direto se não sabemos o que estamos enviando, a solução mais obvia é usar uma linguagem de script que primeiro verifica o tipo do arquivo, adiciona numa queue e depois envia um por um.
+Então suponha que vamos com a primeira opção e criamos uma pasta especifica para os arquivos, vamos usar o rsync direto para envia-los? sua resposta é não. Não vale a pena enviar tudo direto se não sabemos o que estamos enviando, a solução mais obvia é usar uma linguagem de script que primeiro verifica o tipo do arquivo, adiciona numa queue e depois envia um por um.
 É mais lento, mas de mesma forma, é mais controlavel, e com isso temos granularidade o suficiente para saber o que estamos adicionando ao share_documents.
 
 Além disso, o privateGPT aceita vários modelos e eu estava a fim de usar o [vicuna uncensored com 30B de parametros (lento pra caramba)](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ) para poder ter todos os resultados possíveis sem a censura da openAI.
