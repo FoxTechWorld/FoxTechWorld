@@ -5,6 +5,7 @@ description: "Algumas dicas do Kitsune para tornar seu linux melhor"
 
 categories:
   - "Geek"
+  - "Plaining"
   - "Tecnology"
 tags:
   - "OpenSource"
