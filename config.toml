@@ -35,11 +35,9 @@ mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 columns = 2
 mainSections = ["posts"]
 highlight = true
-highlightStyle = "default"
+highlightStyle = "dark-red"
 showBorder = true
 colorTheme = "dark-red"
-
-
 
 [Params.Entry]
 meta = ["date", "categories", "tags"]
