@@ -35,16 +35,15 @@ mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 columns = 2
 mainSections = ["posts"]
 highlight = true
-highlightStyle = "dark-red"
 showBorder = true
 colorTheme = "dark-red"
 
-[Params.Entry]
+[params.Entry]
 meta = ["date", "categories", "tags"]
 toc = true
 tocOpen = true
 
-[Params.Social]
+[params.Social]
 github = "KitsuneSemCalda"
 linkedin = "arthur-augusto-magalhães-55761b220"
 
@@ -58,7 +57,7 @@ disableJS = false
 disableJSON = false
 disableSVG = false
 disableXML = false
-minifyOutput = false
+minifyOutput = true
 
 [minify.tdewolff.css]
 keepCSS2 = true
