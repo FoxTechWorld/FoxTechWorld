@@ -21,12 +21,12 @@ enableRobotsTXT = true
   pageRef = "/tags/"
   weight = 30
 
-[Author]
+[author]
 name = "KitsuneSemCalda"
 bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"
 
-[Params]
-Description = "Um website para um desenvolvedor geek expor ideias e conceitos sobre diversos assuntos"
+[params]
+description = "Um website para um desenvolvedor geek expor ideias e conceitos sobre diversos assuntos"
 opengraph = true
 schema = true
 mathjax = true
@@ -35,6 +35,10 @@ mathjaxConfig = "TeX-AMS-MML_HTMLorMML"
 columns = 2
 mainSections = ["posts"]
 colorTheme = "dark-red"
+highlight = true
+highlightStyle = "default"
+showBorder = true
+
 
 [Params.Entry]
 meta = ["date", "categories", "tags"]
@@ -114,7 +118,7 @@ maxAge = -1
   category = 'categories'
   tag = 'tags'
 
-[Params.Breadcrumb]
+[params.Breadcrumb]
   enable = true
 
 [outputFormats]
