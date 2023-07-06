@@ -15,7 +15,7 @@ authorbox: true
 mathjax: true
 ---
 
-##### Para começar vamos contextualizar o que é um grafo.
+### Para começar vamos contextualizar o que é um grafo.
 
 Um grafo é uma estrutura matemática usada para representar relacionamentos entre objetos.
 
@@ -23,7 +23,7 @@ Ele consiste em um conjunto de pontos, chamados de vértices (ou nós), que são
 
 Grafos são amplamente utilizados em diferentes áreas, como ciência da computação, matemática, redes sociais, teoria dos jogos, entre outros, para modelar e analisar diversas situações.
 
-##### Onde grafos são utilizados em computadores? Vou especificar pontos e estruturas em que grafos comumente são utilizados:
+### Onde grafos são utilizados em computadores? Vou especificar pontos e estruturas em que grafos comumente são utilizados:
 
 - **Redes Sociais**
 
@@ -53,7 +53,7 @@ Grafos são usados em algoritmos de reconhecimento de padrões para modelar rela
 
 Grafos são usados para resolver problemas de otimização e planejamento, como agendamento de tarefas, roteamento de veículos, alocação de recursos e planejamento de projetos.
 
-##### Com isso dito vamos falar sobre o algoritmo do BFS
+### Com isso dito vamos falar sobre o algoritmo do BFS
 
 BFS (Busca em Largura, em inglês Breadth-First Search) é um algoritmo de busca utilizado para percorrer ou explorar grafos de forma sistemática e eficiente. 
 
@@ -131,7 +131,7 @@ int main() {
 Vou fazer um microbenchmark rapidinho para mostrar qual a diferença percorrendo um grafo com 30 vertices na força bruta e com bfs usando python.
 
 
-###### Exemplo de força bruta 
+### Exemplo de força bruta 
 ```python
 def brute_force(graph):
     vertices = list(graph.keys())
@@ -159,7 +159,7 @@ graph = {
 brute_force(graph)
 ```
 
-###### Exemplo usando bfs
+### Exemplo usando bfs
 
 ```python
 from collections import deque
@@ -194,7 +194,7 @@ def bfs(grafo, inicio):
 bfs(grafo, 1)
 ```
 
-###### E o resultado do benchmark foi 
+### E o resultado do benchmark foi 
 
 | Comando    | Time    | Consumo    |
 |---------------- | --------------- | --------------- |

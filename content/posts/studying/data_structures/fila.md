@@ -14,25 +14,25 @@ authorbox: true
 mathjax: true
 ---
 
-##### O que é uma fila?
+### O que é uma fila?
 
 A fila é outra das estruturas de dados mais simples e mais importantes que temos atualmente.
 Podemos implementa-la de duas formas, usando vetores ou listas ligadas que eu já havia citado neste [post](https://foxtechworld.github.io/lista_ligada/).
 
-##### Quais são as principais operações de uma fila?
+### Quais são as principais operações de uma fila?
 
 A fila também tem duas operações principais:
 - Empilhar
 - Desempilhar
 
-##### Qual a diferença de uma fila para a pilha.
+### Qual a diferença de uma fila para a pilha.
 E tem como maior diferença com a fila o metódo de inserção e remoção que é um ***Fifo*** (First In First Out).
 
 Dentro de uma fila, a inserção deve ser feita sempre após o ultimo elemento inserido e sua remoção deve ser feita sempre daquele que foi inserido primeiro, novamente (FIFO).
 
 Caso desejemos acessar um item do meio da fila, devemos remover todos os primeiros devem ser desenfileirados.
 
-###### Exemplo de fila em c++
+### Exemplo de fila em c++
 
 Aqui temos um exemplo em c++ de uma fila.
 
@@ -102,6 +102,8 @@ Repare que agora temos duas variaveis de controle, o front e o rear. Caso o fron
 E caso precisemos enfileirar algo, preciso adicionar ao rear.
 
 Novamente, o exemplo anterior foi feito usando lista ligada, mas em caso de ambiente limitado como embarcados seria melhor utilizar essa estrutura usando vetores;
+
+### Casos de uso de uma fila
 
 | Lista de Aplicações Que Usam Fila                  |
 |----------------------------------------------------|

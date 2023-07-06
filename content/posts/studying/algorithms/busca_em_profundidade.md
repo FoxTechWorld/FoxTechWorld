@@ -15,13 +15,13 @@ authorbox: true
 mathjax: true
 ---
 
-###### Algoritmo de Busca em Profundidade
+### Algoritmo de Busca em Profundidade
 
 O algoritmo de busca em profundidade, conhecido como DFS (do inglês Depth-First Search), é um método utilizado para percorrer ou explorar grafos de maneira sistemática e eficiente. 
 
 Ao contrário do algoritmo de busca em largura (BFS), o DFS segue uma abordagem de "expansão em profundidade", explorando um caminho o mais longe possível antes de retroceder.
 
-###### Visitação dos vértices
+### Visitação dos vértices
 
 Ao realizar uma busca em profundidade, o algoritmo DFS visita os vértices do grafo de forma recursiva. 
 
@@ -35,7 +35,7 @@ Essa abordagem leva a uma exploração mais profunda do grafo antes de voltar ao
 
 Em essência, o DFS explora um ramo específico até atingir um vértice de folha antes de retroceder.
 
-###### Estrutura de dados utilizada
+### Estrutura de dados utilizada
 
 Para implementar o algoritmo DFS, é comum utilizar uma [pilha (stack)](https://foxtechworld.github.io/2023/04/pilha/) para rastrear os vértices a serem visitados. 
 
@@ -45,7 +45,7 @@ Alternativamente, é possível utilizar uma abordagem recursiva para implementar
 
 A cada chamada recursiva, um novo vértice é visitado, e a função recursiva é chamada novamente para explorar os vizinhos desse vértice.
 
-###### Exemplo de implementação em c++:
+### Exemplo de implementação em c++:
 
 ```cpp
 void dfs(vector<vector<int>>& graph, vector<bool>& visited, int vertex) {
@@ -70,7 +70,7 @@ vamos fazer um microbenchmark agora comparando a velocidade de se usar força br
 
 Para cada teste eu usei o seguinte código
 
-###### brute_force.py
+### brute_force.py
 ```py
 def brute_force(graph):
     vertices = list(graph.keys())
@@ -97,7 +97,7 @@ graph = {
 
 brute_force(graph)
 ```
-###### bfs_search.py
+### bfs_search.py
 ```py
 from collections import deque
 
@@ -130,7 +130,7 @@ def bfs(grafo, inicio):
 # Chamada da função BFS com vértice de origem 1
 bfs(grafo, 1)
 ```
-###### dfs_search.py
+### dfs_search.py
 ```py
 def dfs(graph, visited, vertex):
     visited.add(vertex)

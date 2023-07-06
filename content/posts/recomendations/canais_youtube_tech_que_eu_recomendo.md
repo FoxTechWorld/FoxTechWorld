@@ -20,7 +20,7 @@ E claramente cada um tem seus gostos pessoais, meus gostos não devem interferir
 
 PS: Se você tem amor a si mesmo, e aos seus ouvidos, por favor desabilite a **merd@** que se chama dublagem, obrigado.
 
-##### English
+### English
 
 - **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** <br>
     Esse canal explica alguns detalhes matématicos por trás da tecnologia que usamos na computação hoje em dia, desde calculo, algebra linear ...
@@ -66,7 +66,7 @@ PS: Se você tem amor a si mesmo, e aos seus ouvidos, por favor desabilite a **m
 <br>
 
 
-##### Portuguese
+### Portuguese
 
 - **[Fabio Akita](https://www.youtube.com/@Akitando)**<br>
     Este é um bom canal para aprender o motivo de algumas tecnologias existirem atualmente e entender a história da computação melhor.

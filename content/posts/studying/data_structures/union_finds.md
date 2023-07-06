@@ -76,7 +76,7 @@ public:
 
 Para representar a diferença que um Union Finds faz, eu vou utilizar os exemplos de dfs e bfs com e sem Union Finds
 
-###### Exemplo de DFS sem Union Finds
+### Exemplo de DFS sem Union Finds
 
 ```py
 def dfs(graph, visited, vertex):
@@ -271,7 +271,7 @@ for vertex in graph:
         dfs(graph, visited, union_find, vertex)
 ```
 
-###### Exemplo de BFS com Union Finds
+### Exemplo de BFS com Union Finds
 
 ```py
 class UnionFind:
@@ -367,6 +367,8 @@ for i in range(1, len(union_find.parent)):
 |python3 dfs_search.py |  0,06s user 0,04s system | 130% cpu 0,076 total|
 |python3 dfs_union_search.py |  0,09s user 0,04s system | 139% cpu 0,091 total|
 |python3 bfs_union_search.py | 0,08s user 0,05s system |  133% cpu 0,095 total|
+
+### Casos de uso do Union Finds
 
 Perceba que com union finds a performance cai um pouco mas tem determinadas situações a velocidade do union finds pode superar a da busca direta:
 

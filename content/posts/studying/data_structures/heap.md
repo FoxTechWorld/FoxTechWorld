@@ -14,7 +14,7 @@ authorbox: true
 mathjax: true
 ---
 
-##### O que é uma Heap?
+### O que é uma Heap?
 
 A heap será a ultima estrutura de dados que será apresentada por enquanto neste blog. 
 
@@ -29,7 +29,7 @@ E apesar de ser uma lista linear tratamos a heap como uma [árvore de busca bin�
 
 Não vou aprofundar em árvores neste momento, mas deixo o link livre a quem estiver interessado.
 
-###### Casos de uso de heaps
+### Casos de uso de heaps
 
 Assim sendo, a heap tem as funções de inserir, remover, corrige Subindo, corrige descendo essas sendo suas principais funções. E normalmente as heaps são utilizadas em:
 
@@ -46,7 +46,7 @@ Assim sendo, a heap tem as funções de inserir, remover, corrige Subindo, corri
 | Sistemas de Cache                    |
 
 
-###### Exemplo de heap em c++
+### Exemplo de heap em c++
 E aqui definimos nossa estrutura de heap em c++ usando lista ligada.
 
 ```cpp

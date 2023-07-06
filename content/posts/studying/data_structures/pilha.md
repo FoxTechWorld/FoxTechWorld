@@ -14,13 +14,13 @@ authorbox: true
 mathjax: true
 ---
 
-##### O que são pilhas?
+### O que são pilhas?
 
 Seguindo o artigo anterior sobre listas ligadas, hoje vou falar sobre pilhas.
 
 Uma pilha é uma estrutura de dados onde controlamos o topo da pilha e temos duas importantes funções.
 
-###### Principais operações de uma fila
+### Principais operações de uma fila
 
 - Empilhar
 - Desempilhar
@@ -37,7 +37,7 @@ Vou mostrar hoje como se escreve um pilha usando lista ligada em C++:
 
 Repare que as funções básicas de uma pilha está apenas em empilhar e desempilhar mas podemos adicionar funções extras que verificam e a pilha, que realizem algum processo ao desempilhar e etc.
 
-###### Exemplo de pilha em c++
+### Exemplo de pilha em c++
 
 ```cpp
 
@@ -93,7 +93,7 @@ Em caso de de necessitarmos de usarmos essa estrutura em um ambiente mais limita
 
 Mas nesse caso devemos lidar com o problema de inserir em uma pilha cheia.
 
-###### Casos de uso de uma pilha:
+### Casos de uso de uma pilha:
 
 | Lista de Aplicações Que Usam Pilha                 |
 |----------------------------------------------------|

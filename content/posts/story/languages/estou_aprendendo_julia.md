@@ -18,7 +18,7 @@ Como [Uncle Bob diz: "Learn at least one new language every year"](https://blog.
 A resposta foi simples, objetiva e direta o suficiente para eu conseguir fazer os exercícios sem ler a documentação "Calma aaeeeeh eu vou ler a documentação quando já tiver uma boa base de entendimento" mas antes preciso engatinhar para ver se faz sentido continuar na linguagem ou se ela se torna muito exótica para mim e graças a minha sorte ela não me entediou nas primeiras linhas de aprendizado então consigo seguir de boa.
 Primeira coisa que devo dizer sobre o ChatGPT, ele não gerou explicações descentes o suficiente para se considerar um substituto de documentação, apenas mostrou exemplos para um idiota a.k.a eu seguir.
 
-###### Variáveis e Operações Básicas
+### Variáveis e Operações Básicas
 ```julia
 # Declaração de variáveis
 x = 10
@@ -37,7 +37,7 @@ println("A soma de x e y é ", soma)
 println("A potência de x é ", potencia)
 ```
 
-###### Estruturas de Controle
+### Estruturas de Controle
 ```julia
 # Condicionais
 x = 10
@@ -62,7 +62,7 @@ while i <= 5
 end
 ```
 
-###### Funções
+### Funções
 
 ```julia
 # Função que calcula o quadrado de um número
@@ -77,7 +77,7 @@ println("O quadrado de 5 é ", resultado)
 
 Como podem ver, exemplos demostrativos simples e sem multa explicação atuando somente sobre o essencial diferente do vídeo do Fireship indexado acima. Muita coisa foi omitida e muita coisa foi simplesmente não explicada mas com isso consigo concluir todos os exercicios que o ChatGPT me deu para treinar sendo eles:
 
-###### Exercicios
+### Exercicios
 - Escreva uma função em Julia que calcule a média de três números.
 - Escreva um programa que imprima os números pares de 1 a 10.
 - Escreva uma função em Julia que verifique se um número é primo.
