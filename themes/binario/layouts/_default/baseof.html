@@ -9,7 +9,7 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}">
 	<meta name="keywords" content="{{ range .Params.tags }}{{ . }}{{ end }}">
-	<meta name="author" content="{{ .Params.author.name }}">
+	<meta name="author" content="{{ .Site.Params.author.name }}">
 	<meta name="robots" content="index, follow">
 	{{- if .Site.Params.opengraph }}
 		{{ template "_internal/opengraph.html" . }}
