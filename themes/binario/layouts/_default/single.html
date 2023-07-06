@@ -6,6 +6,7 @@
 				{{- partial "entry/featured.html" (dict "page" . "IsSingle" true) }}
 				{{- partial "entry/meta.html" (dict "page" . "class" "mb") }}
 				<h1 class="entry__title">{{ .Title }}</h1>
+				{{- partial "entry/canonical.html ."}}
 				{{- partial "entry/toc.html" . }}
 				<div class="entry__content">{{ .Content }}</div>
 				{{ if or (.Param "share") (isset $.Params "tags") }}
