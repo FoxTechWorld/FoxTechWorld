@@ -21,9 +21,7 @@ enableRobotsTXT = true
   pageRef = "/tags/"
   weight = 30
 
-[author]
-name = "KitsuneSemCalda"
-bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"
+
 
 [params]
 description = "Um website para um desenvolvedor geek expor ideias e conceitos sobre diversos assuntos"
@@ -37,6 +35,10 @@ mainSections = ["posts"]
 highlight = true
 showBorder = true
 colorTheme = "dark-red"
+
+[author]
+name = "KitsuneSemCalda"
+bio = "KitsuneSemCalda é a identidade secreta de um estudante de ciencias de computação (ou talvez não)"
 
 [params.Entry]
 meta = ["date", "categories", "tags"]
