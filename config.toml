@@ -118,3 +118,7 @@ maxAge = -1
 
 [params.Breadcrumb]
   enable = true
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
