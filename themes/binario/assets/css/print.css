@@ -1,0 +1,40 @@
+/* Print */
+@media print {
+	.entry__content a,
+	.entry__meta a,
+	.entry__tag {
+		color: #000;
+		text-decoration: underline;
+	}
+
+	.logo,
+	.block,
+	.entry__title,
+	.entry__title-link,
+	.meta-categories__link,
+	.entry__meta,
+	.entry__content {
+		color: #000;
+	}
+
+	.main-nav,
+	.comments,
+	.entry__toc,
+	.related,
+	.footer__copyright-credits {
+		display: none;
+	}
+
+	.header,
+	.block {
+		border: 0;
+	}
+
+	mark {
+		background-color: #25a;
+	}
+
+	blockquote {
+		border-color: #000;
+	}
+}
