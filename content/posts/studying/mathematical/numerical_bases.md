@@ -2,7 +2,7 @@
 title: "Bases Númericas: Binários e Decimais"
 date: 2023-05-20T13:08:25-03:00
 description: "O mundo indo além de bases decimais com bases binárias"
-
+author: "KitsuneSemCalda"
 categories:
   - "Mathematical"
   - "Tecnology"

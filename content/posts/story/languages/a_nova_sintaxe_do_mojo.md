@@ -2,7 +2,7 @@
 title: "As novas funcionalidades do mojo"
 date: 2023-05-12T09:11:26-03:00
 description: "O que muda do python para o Mojo?"
-
+author: "KitsuneSemCalda"
 categories:
   - "Tecnology"
 tags:

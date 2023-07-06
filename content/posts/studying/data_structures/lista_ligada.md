@@ -2,7 +2,7 @@
 title: "Lista Ligada"
 date: 2023-04-30T00:17:12-03:00
 description: "Estrutura de dados lista ligada"
-
+author: "KitsuneSemCalda"
 categories:
     - Tecnology
     - Data Structure

@@ -2,6 +2,7 @@
 title: "O primeiro passo para o brain VA"
 date: 2023-05-05T08:54:31-03:00
 description: "Iniciando o brain VA"
+author: "KitsuneSemCalda"
 categories:
   - "Tecnology"
 tags:

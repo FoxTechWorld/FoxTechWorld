@@ -2,7 +2,7 @@
 title: "Binary Search Tree"
 date: 2023-06-19T15:57:38-03:00
 description: "Vamos avançar com a mais básica estrutura de árvore, a Árvore de Busca Binaria ou Binary Search Tree"
-
+author: "KitsuneSemCalda"
 categories:
     - Tecnology
     - Data Structure

@@ -7,7 +7,7 @@ categories:
   - "Tecnology"
 tags:
   - "Programming"
-
+author: "KitsuneSemCalda"
 comments: true
 authorbox: true
 mathjax: true

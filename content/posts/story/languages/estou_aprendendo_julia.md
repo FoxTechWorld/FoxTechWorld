@@ -8,7 +8,7 @@ categories:
 tags:
   - "Programming"
   - "Studying"
-
+author: "KitsuneSemCalda"
 comments: true
 authorbox: true
 mathjax: true

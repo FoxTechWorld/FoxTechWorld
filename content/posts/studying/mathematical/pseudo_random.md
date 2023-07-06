@@ -2,7 +2,7 @@
 title: "Números pseudo aleatórios"
 date: 2023-05-04T08:39:04-03:00
 description: "Como são gerados números pseudo aleátorios"
-
+author: "KitsuneSemCalda"
 categories:
   - "Mathematical"
   - "Tecnology"

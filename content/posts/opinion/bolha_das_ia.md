@@ -2,7 +2,7 @@
 title: "Bolha das inteligencias artificiais"
 date: 2023-05-31T16:57:42-03:00
 description: "Um pouco de polemica para começar a nova bolha"
-
+author: "KitsuneSemCalda"
 categories:
   - "Opinion"
   - "Technology"

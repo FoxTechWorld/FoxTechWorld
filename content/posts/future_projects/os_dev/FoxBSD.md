@@ -2,6 +2,7 @@
 title: "FoxBSD"
 date: 2023-07-04T09:43:48-03:00
 description: "Meu futuro projeto: Um OS Unix-Like"
+author: "KitsuneSemCalda"
 
 categories:
   - "Tecnology"

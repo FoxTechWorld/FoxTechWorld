@@ -2,7 +2,7 @@
 title: "Começando um novo projeto: Graphene Simulator"
 date: 2023-06-10T12:33:00-03:00
 description: "Bora fazer simulação e data visualization"
-
+author: "KitsuneSemCalda"
 categories:
   - "Technology"
 tags:

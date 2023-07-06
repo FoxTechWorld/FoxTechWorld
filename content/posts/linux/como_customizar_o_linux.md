@@ -2,7 +2,7 @@
 title: "Como vou customizar meu proxímo linux"
 date: 2023-06-29T09:40:29-03:00
 description: "Algumas dicas do Kitsune para tornar seu linux melhor"
-
+author: "KitsuneSemCalda"
 categories:
   - "Geek"
   - "Plaining"

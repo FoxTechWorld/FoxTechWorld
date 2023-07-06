@@ -2,7 +2,7 @@
 title: "Calculo inversa de uma matriz de forma eficiente"
 date: 2023-06-11T16:10:06-03:00
 description: "Tá cansado de calcular a inversa da matriz usando sistemas lineares igual um animal?"
-
+author: "KitsuneSemCalda"
 categories:
   - "Mathematical"
   - "Tecnology"

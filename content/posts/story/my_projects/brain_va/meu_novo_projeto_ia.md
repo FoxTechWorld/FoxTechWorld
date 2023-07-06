@@ -2,7 +2,7 @@
 title: "Meu novo projeto Brain VA"
 date: 2023-05-04T11:03:04-03:00
 description: "Meu projeto de auxilio para criação de Assistente Virtuais"
-
+author: "KitsuneSemCalda"
 categories:
   - "Tecnology"
 tags:

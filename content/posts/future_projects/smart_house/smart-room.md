@@ -2,7 +2,7 @@
 title: "Smart Room"
 date: 2023-06-06T12:19:03-03:00
 description: "Eu quero uma Smart Room e sim, sou preguiçoso e daí?"
-
+author: "KitsuneSemCalda"
 categories:
   - "Tecnology"
   - "Plaining"

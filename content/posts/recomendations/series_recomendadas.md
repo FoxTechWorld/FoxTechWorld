@@ -2,7 +2,7 @@
 title: "Series cartoon que eu recomendado"
 date: 2023-05-06T19:08:44-03:00
 description: "My Favorited Series is recomended"
-
+author: "KitsuneSemCalda"
 categories:
   - "Geek"
 tags:

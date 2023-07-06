@@ -2,7 +2,7 @@
 title: "Union Finds"
 date: 2023-06-17T14:31:56-03:00
 description: "Melhorando a velocidade de pesquisa em grafos com union finds"
-
+author: "KitsuneSemCalda"
 categories:
     - Tecnology
     - Data Structure

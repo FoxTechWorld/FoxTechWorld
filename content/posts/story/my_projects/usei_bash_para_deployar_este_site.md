@@ -2,7 +2,7 @@
 title: "Usei bash para deployar este site"
 date: 2023-04-30T01:06:17-03:00
 description: "Criei um script para deployar este site na web"
-
+author: "KitsuneSemCalda"
 categories:
   - "Tecnology"
 tags:
