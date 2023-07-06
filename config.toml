@@ -118,13 +118,3 @@ maxAge = -1
 
 [params.Breadcrumb]
   enable = true
-
-[outputFormats]
-  [outputFormats.MANIFEST]
-    mediaType = "application/json"
-    baseName = "manifest"
-    isPlainText = true
-    notAlternative = true
-
-[outputs]
-  home = ["HTML", "RSS", "MANIFEST"]
