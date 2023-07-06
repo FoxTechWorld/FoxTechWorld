@@ -18,6 +18,7 @@ Chegamos ao ponto final do projetos onde falta terminar de implementar as classe
 Nesse caso vamos começar trabalhando com o contéudo da classe `WikipediaSearch`, essa classe vai fazer apenas uma coisa, pesquisar o contéudo da wikipedia e retornar o mesmo.
 No caso eu defini um __init__ para receber o termo que será pesquisado, e como implementação do search, a classe Wikipedia gera uma pequena select list para não haver desambiguação ou falha na pesquisa.
 
+### Declarando a classe WikipediaSearch
 ```python
 class WikipediaSearch:
     def __init__(self, term) -> None:
@@ -58,6 +59,8 @@ Isso garante que não haja uma quebra bruta do sistema onde o mesmo será implem
 Com isso terminado, vamos começar a implementar a classe `gpt3` que irá usar a Api da OpenAI para converter o texto da Wikipedia em fatos e regras de prolog ("Te garanto que a inferencia lógica vale o trabalho").
 Mas antes vamos criar uma função que sanitize o contéudo da wikipedia, ele será externo a factory, como se fosse o funcionário que faz a manutenção do mesmo.
 
+### Declarando uma função de sanitização
+
 ```python
 def sanitize(content):
     import html2text
@@ -72,6 +75,8 @@ No caso utilizamos duas libs para sanitizar o contéudo, o html2text e o Beautif
 Com isso garantimos um texto legível humanamente e podemos usar esse texto mesmo sem passar pela api da OpenAI.
 
 Agora implementamos a classe do gpt3
+
+### Declarando a classe GPT3
 
 ```python
 class Gpt3:
@@ -100,6 +105,8 @@ claro que nesse momento, ele não sabe o que fazer, por isso puxamos o prompt no
 
 Com isso terminado, vamos trabalhar na classe `PrologFile`
 
+### Declarando a classe PrologFile
+
 ```python
 class PrologFile:
     def __init__(self, term, content):
@@ -117,6 +124,8 @@ pass
 Essa é a mais simples classe que trabalhamos até agora, ela tem um construtor que recebe o termo no qual estamos trabalhando adquirido pela classe `WikipediaSearch` e o conteúdo que será gerado pela classe `gpt3` e os usa para gerar o arquivo pela função create.
 
 Com isso terminado só falta terminar a classe factory que fará a união de todos esses códigos.
+
+### Integrando tudo na classe ChatBotFactory
 
 ```python
 class ChatBotFactory:

@@ -21,6 +21,8 @@ Como tudo que se é utilizado no dia a dia.
 
 A ideia principal é usar 3 classes que vão ser usadas na classe principal de factory
 
+### Criando uma versão sem lógica das classes
+
 - WikipediaSearch
 ```python
 class WikipediaSearch:

@@ -17,6 +17,8 @@ mathjax: true
 Essa tarde tive uma ideia sobre como tornar um Virtual Assistente um pouco mais esperto sem necessariamente precisar de uma IA treinada.
 Vamos criar um projeto que gerar uma fonte de conhecimento para IA ou buscas rápidas para chatbot, seria necessario ter um chatbot implementado de forma unica para esse ferramenta, mas por enquanto do jeito que vamos fazer parece bom.
 
+### Criando os objetivos
+
 Primeiramente eu dividi a primeira parte da ideia em etapas:
 
     - Raspar Dados do Wikipedia ... [Podemos adicionar outras plataformas de conteúdo futuramente]

@@ -21,6 +21,8 @@ Depois disso basta eu definir uma Factory que inicie tudo automaticamente, algun
 
 PS: Apesar de usar uma linguagem lógica por trás, isto não é uma inteligencia artificial e sim um chatbot que saiba definir corretamente regras e fatos. Para qualquer dúvida temos na wikipedia explicações sobre o [prolog](https://pt.wikipedia.org/wiki/Prolog)
 
+### Criando o CLI da minha aplicação
+
 ```python
 import sys
 
