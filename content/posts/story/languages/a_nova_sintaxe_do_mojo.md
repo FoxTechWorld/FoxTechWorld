@@ -80,7 +80,6 @@ Olha que coisa linda é  esse superset.
 Quando trabalharmos em sistemas modernos precisamos de uma forma segura de construir abstrações e de alto nível sobre o controle do Layout de dados de baixo nível, acesso ao campo livre de indireção e outros truques de nicho. Mojo oferece suporte a isso usando o tipo `struct` (novamente lembrando de C e Rust).
 Os tipos [structs](https://en.wikipedia.org/wiki/Struct_(C_programming_language)) são muito parecidos com classes, no entanto as classes são estremamente dinamicas com [dispatch dinâmico](https://pt.wikipedia.org/wiki/Liga%C3%A7%C3%A3o_din%C3%A2mica_(programa%C3%A7%C3%A3o_orientada_a_objetos)), [monkey-patching](https://en.wikipedia.org/wiki/Monkey_patch).
 Structs são estáticos, vinculados em tempo de compilação e embutidos em seu container, em mojo uma struct seria declarada assim:
-
 ```python
 struct MyPair:
 	var first: Int

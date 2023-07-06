@@ -40,6 +40,8 @@ Então bora deixar de ser normie e começar a customizar essa bagaça.
 
 Os passos são bem simples do que você tem que fazer.
 
+### Renderizando gráficos usando GPU (integrada ou dedicada)
+
 1. Verifique se seu pc está compondo pelo sua gpu, caso não esteja você está sendo sacaneado pelo sistema.
 
 ```bash
@@ -47,6 +49,8 @@ glxinfo | grep "direct"
 ```
 
 Caso o sistema reclame que você não tem o comando glxinfo, ele pertence ao `mesa-utils`.
+
+### Usando Ram ao invês de Swap na maioria dos casos
 
 2. Evite deixar o equilibrio do descarregamento de dados do seu aplicativo entre ram e swap.
 Isso mesmo, seja agressivo e bote tudo na ram.
@@ -70,6 +74,8 @@ Estamos fazendo o kernel parar de engasgar e parar. E isso deve funcionar com ma
 
 Ajustou corretamente, agora faça o seguinte reboota ou reboota quando terminar de modificar.
 
+### Configurar o agendador de E/S para que consiga escrever tudo
+
 3. Configure seu agendador de E/S, você pode verificar digitando o seguinte comando:
 
 ```bash
@@ -86,11 +92,15 @@ echo kyber > /sys/block/nvme0n1/queue/scheduler
 
 no meu caso eu estou usando o melhor agendador então não vou modificar
 
+### Usar o kernel Zen ao invês do Kernel Generico
+
 4. Verifique se seu kernel é generico ou zen
 
 Se seu kernel for generico, você pode querer substituir pela versão zen que é mais otimizada para desktop.
 Mas já deixo um aviso, trocar de kernel não é trivial, é uma coisa complexa que deve ser praticada nos minimos detalhes para você não quebrar seu sistema.
 Mantenha um backup e um livecd pronto para corrigir qualquer alteração.
+
+### Verificar se a CPU está no modo de performance
 
 5. CpuPower
 
@@ -104,6 +114,8 @@ Não esqueça de ativar o cpupower no systemd
 ```bash
 systemctl enable cpupower
 ```
+
+### Use o Ananicy
 
 6. Ananicy
 

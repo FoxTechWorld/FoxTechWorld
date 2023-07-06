@@ -13,7 +13,7 @@ comments: true
 authorbox: true
 mathjax: true
 ---
-
+### Introdução ao tema
 Bem vindos passageiros! Estamos preste a entrar em grande turbulencia graças a chegada da nova bolha tech.
 
 A **Bolha das inteligencias artificiais**.
@@ -41,6 +41,8 @@ E ainda sim, esse é o uso maximo que uma pessoa pode ter de uma IA no momento, 
 
 No entanto, é novamente o ciclo dos leigos, confiando em algo que desconhecem em busca de um pouco mais de lucro.
 
+### Não é o fim do mundo
+
 Enfim ... na programação temos uma máxima `Tudo o que for possível de se automatizar será`. Isso também significa que não devemos nos prender a coisas rotineiras. 
 
 Podemos nos tornar [BoK's](https://en.wikipedia.org/wiki/Body_of_knowledge) mutáveis ou seja, podemos nós tornar profissionais que estão sempre trabalhando em algo novo.
@@ -60,6 +62,8 @@ Enfim, sobre isto atualmente tenho duas opiniões:
 
 - Máquinas não podem pensar de forma livre é uma impossibilidade.
 - O teste não revela se uma máquina pode pensar, apenas se pode imitar um ser humano. Plot Twist: [Ela Pode](https://www.correiobraziliense.com.br/tecnologia/2023/03/5083442-chatgpt-4-inteligencia-artificial-mente-para-completar-tarefa-em-teste.html).
+
+### Motivos que a IA não vai dominar o mundo
 
 Pior é quando vem um trouxa achando que a **Inteligencia Artificia** vai substituir a humanidade. 
 Temos diversas impossibilidades para isso.

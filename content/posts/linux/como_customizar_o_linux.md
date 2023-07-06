@@ -19,6 +19,8 @@ Olá de novo, Kitsune aqui. Hoje vim explanar uns pensamentos que estou tendo so
 
 Para quem não sabe estou usando este setup:
 
+### Meu Setup
+
 ```
 - CPU: Intel i5 11ªgen
 - Memória Ram: 8GB Ram DDR4
@@ -55,6 +57,8 @@ O Rsync faz uma cópia exata do arquivo. Podemos dizer que com rsync você gasta
 
 Já o TimeShift autosnap serve para definir a quantidade de snapshots máxima que você quer no seu sistema (comigo é no máximo 3, sendo elas criadas com btrfs usando CoW). Basicamente seguindo este outro [tutorial](https://www.lorenzobettini.it/2022/07/timeshift-and-grub-btrfs-in-linux-arch/) de forma que o grub se atualize após a inclusão ou exclusão de um snapshot.
 
+### Lista de otimizações de Baixo Nível
+
 Acho interessante manter algumas coisas em low-level também então vou seguir as dicas do meu tutorial sobre [otimização do linux](https://foxtechworld.github.io/2023/05/n%C3%A3o-seja-normie-otimize-seu-linux/). E claro fazer algumas pesquisas mais avançadas de customização do sistema operacional como as sugeridas pela [Arch Wiki](https://wiki.archlinux.org/title/improving_performance) e de um [cara secundário no linkedin que fez um post bacana sobre otimização](https://www.linkedin.com/pulse/how-make-your-archlinux-faster-sourav-goswami/).
 
 - Ativar a desfragmentação automatica do Btrfs
@@ -83,13 +87,18 @@ lembrando que:
 
 E para finalizar de forma não menos importante, a lista de coisas que pretendo instalar no meu novo sistema:
 
+### Lista de Aplicações que provavelmente vou instalar
+
 - Neovim || Meu editor de texto de terminal favorito
 - Google-Chrome || Um navegador web
 - Firefox || Outro navegador
+- Min || Outro Navegador
 - Tor || Mais um navegador (pode me chamar de Pedro Alvares Cabral)
 - OnlyOffice || Uma suite de edição de documentos
 - FreeTube || Um bom cliente para o Youtube
 - Thunderbird || O melhor cliente de email que conheço
 - Obsidian || Onde faço minhas anotações
+- Spotify || Eu gosto, quem não gosta que se lasque
+- Alacritty || Um bom terminal acelerado por GPU.
 
 Muito talvez, eu instale algo além disso (tirando minhas ferramentas dev que provavelmente vou comentar em outro post). E algumas ideias de momento que vou tentar fazer mais a frente.
