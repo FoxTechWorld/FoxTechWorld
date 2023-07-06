@@ -15,7 +15,7 @@ authorbox: true
 mathjax: true
 ---
 
-##### O que são bases númericas?
+### O que são bases númericas?
 
 Bases numericas são sistemas que nos permitem representar e manipular números de diferentes formas.
 
@@ -23,7 +23,7 @@ Muito além de usar apenas simbolos de 0 a 9 antes de adicionar uma casa decimal
 
 Essas outras bases que utilizam símbolos e regras distintas.
 
-##### Sistema Decimal
+### Sistema Decimal
 
 O sistema decimal uma representação posicional em que cada digito tem uma posição especifico.
 
@@ -38,7 +38,7 @@ Esse sistema é baseado no conceito de contar que nos permite utilizar operaçõ
 
 Através da familiaridade com o sistema decimal podemos ter intuitivamente compreensão das quantidades e dos valores numéricos.
 
-##### Sistema Binário
+### Sistema Binário
 
 O sistema binário é uma base númerica fundamental na computação e na eletrônica.
 
@@ -55,9 +55,7 @@ No sistema binário, os valores também são definidos posicionalmente com cada 
 |0	|0	|1	|0	|2|
 |0	|0	|1	|1	|3|
 
-##### Conversão entre bases decimal e binária
-
-###### Binário para Decimal
+### Conversão entre bases decimal e binária: Binário para Decimal
 
 A conversão de um número binário para decimal envolve a determinação do valor decimal correspondente à sequencia de digitos binários.
 
@@ -79,7 +77,7 @@ Cada digito binário em uma posição especifica representa uma potência de 2.
 
 - Somar os resultados das multiplicações para obter o valor decimal equivalente.
 
-###### Decimal para binário
+### Conversão entre bases decimal e binária: Decimal para binário
 
 De forma oposta, a conversão de um número decimal para binário é um processo que envolve a representação do número decimal em termos de potencias de 2.
 

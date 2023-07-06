@@ -19,7 +19,7 @@ Para retomar-mos a ideia de estrutura de dados fora da série de grafos, eu deci
 
 Para trabalharmos com a árvore de busca binaria precisamos atualizar o conceito de Nó ou Node que estavamos usando.
 
-### Modelo Antigo:
+### Modelo de Node Antigo:
 
 ```cpp
 class Node{
@@ -34,7 +34,7 @@ class Node{
 };
 ```
 
-### Modelo Novo:
+### Modelo de Node Novo:
 
 ```cpp
 class Node{
