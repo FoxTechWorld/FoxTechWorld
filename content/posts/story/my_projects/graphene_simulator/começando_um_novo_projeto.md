@@ -21,7 +21,7 @@ Pois é, mais um projetinho para passar bem o feriadão, com isso vamos começar
 
 Para isso vou descontruir um objeto eletronico a seu mínimo e ir gradativamente aumentando, tenha ciencia que para um cpu precisamos seguir o caminho "silicio > transistor > cpu" no caso eu encadearei as structs "grafeno > transistor > cpu" e irei realizar as simulações a base disso. Tome como exemplo essas struct's simplistas
 
-###### Struct para Grafeno
+### Struct para Grafeno
 ```julia
 struct Grafeno
     propriedade1 :: Float64
@@ -30,7 +30,7 @@ struct Grafeno
 end
 ```
 
-###### Struct para Transistor
+### Struct para Transistor
 ```julia
 struct Transistor
     grafeno::Grafeno
@@ -40,7 +40,7 @@ struct Transistor
 end
 ```
 
-###### Struct para CPU
+### Struct para CPU
 ```julia
 struct CPU
     transistor::Transistor

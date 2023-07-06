@@ -13,6 +13,8 @@ authorbox: true
 mathjax: true
 ---
 
+### O conto do bash
+
 Isso mesmo galera, fiz um script bash para gerar o conteúdo que aparece em vossas telas.
 Antes de tudo, esse script bash serve apenas para deployar, e todo trabalho duro de converter minhas digitações em html pertence ao [Hugo](https://gohugo.io/)
 
@@ -27,6 +29,8 @@ ele é dividido em 3 funções
 - Postar o html em github pages
 - Postar as modificações no repo
 
+### Gerar o html do site.
+
 Para a primeira etapa eu fiz o seguinte:
 
 ```bash
@@ -37,6 +41,8 @@ hugo
 
 Isso verifica se há uma messagem de commit, caso não haja cria uma mensagem generica após isso gera o html
 Bem simples e prático, e o melhor sem grandes dores de cabeça.
+
+### Publicar o site em si
 
 Para a segunda etapa começamos com a primeira função:
 ```bash
@@ -51,6 +57,8 @@ function public_deploy(){
 Uma função simples que vai deployar dentro do submodule do site, ela apenas entra em `public` que é o submódulo do blog.
 adiciona tudo e faz o commit com a mensagem da primeira etapa. Após isso empurra pro submódulo.
 
+### Publicar o backup das configurações do site
+
 Para a terceira etapa fazemos o mesmo para o repo em que estou trabalhando neste momento.
 
 ```bash
@@ -63,6 +71,8 @@ function repo_deploy(){
 ```
 
 Nem vou perder tempo explicando este, é apenas a segunda etapa feita no repo anterior
+
+### Unificando todas as funções
 
 Para a quarta etapa, integramos tudo e usamos uma sequencia de funções.
 

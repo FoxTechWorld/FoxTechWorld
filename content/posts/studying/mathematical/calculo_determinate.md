@@ -16,6 +16,8 @@ authorbox: true
 mathjax: true
 ---
 
+### O que é necessário para calcular a inversa
+
 Para calcular uma inversa precisamos de 3 coisas.
 
 1. Uma matriz quadrada
@@ -23,6 +25,8 @@ Para calcular uma inversa precisamos de 3 coisas.
 3. Algo ou alguém para calcular isso
 
 `" ¯\_(ツ)_/¯ "`
+
+### Como calcular a inversa com velocidade sem gastar muito esforço
 
 Na verdade é são poucos passos:
 

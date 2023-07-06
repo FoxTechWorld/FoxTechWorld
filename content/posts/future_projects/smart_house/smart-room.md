@@ -15,6 +15,8 @@ authorbox: true
 mathjax: true
 ---
 
+### Smart Room? Pra que?
+
 Devo começar falando que se você quer montar algo inteligente na sua casa você terá um trade-off, uma troca entre facilidade e privacidade, isso se deve ao fato de que você estará gerando dados sobre tudo o que for automatizado e caso você escolha o caminho fácil você usará uma alexa onde as informações serão enviadas para a Amazon e onde o servidor de aplicação, deles realizará o trabalho.
 Pense em usar a Alexa como tomar a pílula azul em Matrix onde você ainda estará acomodado. Agora caso escolha privacidade, você terá que ter seu próprio [servidor de aplicação](https://pt.wikipedia.org/wiki/Servidor_de_aplica%C3%A7%C3%A3o) junto com servidores de armazenamento e alguns auxiliares, esta é uma opção com mais custos pelo controle de informação. Você pode até usar [IaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-iaas) mas voltaria ao estágio inicial de perda de controle sobre as informações, logo é preferivel ter tudo localmente em servidores controláveis.
 E apesar de eu falar servidores, não precisa pegar algo caro, pode ser um raspberry pi barato ou algum pc hyper fraco como os da positivo contanto que você possa mante - lo ligado 24/7 além disso você precisa necessariamente se conectar com diversos aparelhos na rede então seria preferivel que você também tivesse uma rede interna e privada caso use a automação mais hardcore da pirula vermelha. Tendo os dois prontos, agora você precisa tomar a decisão, vai utilizar algum projeto pronto ou começar o seu? novamente depende de vários fatores como:
@@ -33,6 +35,8 @@ Mas o que eu considero automações simples e automações complexas:
 | Rotinas baseadas em sensores      | Rotinas baseads em localidade                 |
 | Controle de Temperatura           | Sistema de reconhecimento facial para acesso  |
 | Agendamento de tarefas domesticas | Sistema de segurança integrado a cameras      |
+
+### Ideia geral de como funcionaria
 
 Com isso definido, vou dar uma ideia geral de como o servidor de aplicação deveria rodar (na mente mente, nunca cheguei a implementar e pretendo fazer uma Automação Complexa logo Alexa)
 

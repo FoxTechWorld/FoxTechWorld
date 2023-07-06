@@ -15,6 +15,8 @@ authorbox: true
 mathjax: true
 ---
 
+### O que são números verdadeiramente aleátorios
+
 Um número verdadeiramente aleátorio é impossivel com a computação porque a computação é deterministica.
 Ou seja, eu posso saber e conferir o resultado antes mesmo dele executar ou testar para o resultado.
 
@@ -37,7 +39,9 @@ Inclusive John von Neumann criou o conceito de uma sequencia quase aleatória qu
 
 Algumas vezes usamos hash para misturar os bits da semente e aumentar a entropia
 
-**Porque a soma de dois números aleatórios ou pseudo-aleatórios não aumenta a aleatoriedade**
+
+
+### **Porque a soma de dois números aleatórios ou pseudo-aleatórios não aumenta a aleatoriedade**
 
 Com tudo isso dito sobre a geração de números pseudo-aleatórios. Tenha o seguinte o exemplo:
 
