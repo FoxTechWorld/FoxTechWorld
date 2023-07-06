@@ -42,6 +42,6 @@ Além disso, cada software vai ter um sistema de flags para serem executados. Um
 
 Assim podemos ter certeza que o código tenha performance e segurança o suficiente para ser públicado na loja.
 
-O FoxBSD também teria suporte a coisas como containers (usando cgroups e namespaces), o uso de ACPI, Mesa, Vulkan ... etc. De forma a manter compatibilidade com a maioria dos sistemas operacionais.
+O FoxBSD também teria suporte a coisas como containers (usando cgroups e namespaces), o uso de ACPI, Mesa, Vulkan ... etc em padrões além do POSIX. De forma a manter compatibilidade com a maioria dos sistemas operacionais.
 
 Para finalizar o FoxBSD seria uma distribuição 100% aberta e 100% gratuita.
