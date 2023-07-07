@@ -15,9 +15,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### O que é necessário para calcular a inversa
@@ -36,21 +36,28 @@ Na verdade é são poucos passos:
 
 - Pegue uma matriz quadrada e inverta a ordem da diagonal principal
 
-```
-| 2 4 | -> | 5 4 |
-| 1 5 | -> | 1 2 |
-```
+\begin{pmatrix}
+\displaylines{5 & 4 \\\ 1 & 2}
+\end{pmatrix}
 
 - Inverta o sinal da diagonal secundária
 
-```
-|  5 -4 |
-| -1  2 |
-```
+\begin{pmatrix}
+\displaylines{5 & -4 \\\ -1 & 2}
+\end{pmatrix}
 
 - Você divide todos os elementos da matriz gerada pelo determinante da matriz original e reduz onde é possível.
 
-```
-|  5/6 -4/6 | -> |  5/6 -2/3 |
-| -1/6  2/6 | -> | -1/6  1/3 |
-```
+Matrix original:
+
+\begin{pmatrix}
+\frac{5}{6} & -\frac{4}{6} \\\ -\frac{1}{6} & \frac{2}{6}
+\end{pmatrix}
+
+Matrix inversa:
+
+\begin{pmatrix}
+\frac{5}{6} & -\frac{2}{3} \\\ -\frac{1}{6} & \frac{1}{3}
+\end{pmatrix}
+
+Espero que tenha ajudado nas provas de matrizes e na implementação de calculos mais eficientes.

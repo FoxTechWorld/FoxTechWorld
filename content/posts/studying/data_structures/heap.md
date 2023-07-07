@@ -3,18 +3,21 @@ title: "Heap"
 date: 2023-05-03T16:51:33-03:00
 description: "Estrutura de Dados Heap"
 author: "KitsuneSemCalda"
+
 categories:
     - Tecnology
     - Data Structure
 tags:
     - Studying
     - Programming
+
 comments: true
 authorbox: true
 mathjax: true
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### O que é uma Heap?

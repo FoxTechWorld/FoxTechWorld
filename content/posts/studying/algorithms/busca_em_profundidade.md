@@ -3,6 +3,7 @@ title: "Busca em profundidade"
 date: 2023-05-19T09:09:15-03:00
 description: "Busca em largura é a única forma? Claro que não"
 author: "KitsuneSemCalda"
+
 categories:
   - "Tecnology"
   - "Algorithm"
@@ -14,9 +15,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### Algoritmo de Busca em Profundidade

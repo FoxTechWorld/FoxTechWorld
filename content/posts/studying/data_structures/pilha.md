@@ -3,19 +3,21 @@ title: "Pilha"
 date: 2023-04-30T14:58:21-03:00
 description: "Estrutura de dados pilha"
 author: "KitsuneSemCalda"
+
 categories:
     - Tecnology
     - Data Structure
 tags:
     - Studying
     - Programming
+
 comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### O que são pilhas?

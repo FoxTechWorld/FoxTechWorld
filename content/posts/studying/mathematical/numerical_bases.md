@@ -3,6 +3,7 @@ title: "Bases Númericas: Binários e Decimais"
 date: 2023-05-20T13:08:25-03:00
 description: "O mundo indo além de bases decimais com bases binárias"
 author: "KitsuneSemCalda"
+
 categories:
   - "Mathematical"
   - "Tecnology"
@@ -13,9 +14,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### O que são bases númericas?

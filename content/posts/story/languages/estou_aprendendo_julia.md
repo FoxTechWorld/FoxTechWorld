@@ -2,22 +2,24 @@
 title: "Estou aprendendo julia"
 date: 2023-06-08T22:17:53-03:00
 description: "Uma linguagem veloz para a maioria das coisas"
+author: "KitsuneSemCalda"
 
 categories:
   - "Technology"
 tags:
   - "Programming"
   - "Studying"
-author: "KitsuneSemCalda"
+
 comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
+### Motivação a aprender uma nova linguagem
 Como [Uncle Bob diz: "Learn at least one new language every year"](https://blog.cleancoder.com/uncle-bob/2016/09/01/TheLurn.html) e eu decidi começar a estudar [Julia](https://www.youtube.com/watch?v=JYs_94znYy0&t=23s&ab_channel=Fireship) por ela poder ser utilizada a fins de simulação e visualização de dados, inclusive criei um repositorio github para [meus aprendizados](https://github.com/KitsuneSemCalda/Learning) onde pretendo deixar algumas coisas que aprendi como linguagens conceitos e etc. Para isto funcionar da forma que espero vou utilizar da ajuda do ChatGPT e do gpt4all para me gerar desafios e prompts de aprendizado inclusive o primeiro prompt que eu dei foi: `Se imagine sendo o professor mais didatico da internet e crie um tutorial com exercicios em julia`.
 A resposta foi simples, objetiva e direta o suficiente para eu conseguir fazer os exercícios sem ler a documentação "Calma aaeeeeh eu vou ler a documentação quando já tiver uma boa base de entendimento" mas antes preciso engatinhar para ver se faz sentido continuar na linguagem ou se ela se torna muito exótica para mim e graças a minha sorte ela não me entediou nas primeiras linhas de aprendizado então consigo seguir de boa.
 Primeira coisa que devo dizer sobre o ChatGPT, ele não gerou explicações descentes o suficiente para se considerar um substituto de documentação, apenas mostrou exemplos para um idiota a.k.a eu seguir.

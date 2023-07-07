@@ -3,6 +3,7 @@ title: "Bolha das inteligencias artificiais"
 date: 2023-05-31T16:57:42-03:00
 description: "Um pouco de polemica para começar a nova bolha"
 author: "KitsuneSemCalda"
+
 categories:
   - "Opinion"
   - "Technology"
@@ -13,9 +14,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 ### Introdução ao tema
 Bem vindos passageiros! Estamos preste a entrar em grande turbulencia graças a chegada da nova bolha tech.

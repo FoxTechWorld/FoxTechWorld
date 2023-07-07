@@ -12,14 +12,16 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
-
+### Introdução
 Galera, me inscrevi na lista para testar a nova linguagem de progmamação Mojo, que segundo eles é a combinação perfeita entre a usabilidade do python com a performance do C.
 Eu particularmente gosto do C por ser uma meta linguagem de baixo nível misturado com performance, não que eu tenha algo contra python ou outras linguagens. 
 Inclusive python também é uma das minhas linguagens favoritas talvez eu faça um post sobre cada linguagem e porque eu gosto delas.
+
+### O que difere mojo de python?
 
 Primeiramente, a linguagem Mojo é compativel com o Python, eles utilizam o cpython para executar todo o código python existente garantindo sua total compatibilidade com o ecossistema python. 
 Mas, como o objetivo da linguagem é ter desempenho similar ao de baixo nível, [eles](https://www.modular.com/) adicionaram suporte a capacidade de implementar subconjunto de aceleradores.

@@ -3,6 +3,7 @@ title: "Usando controle de xbox no linux"
 date: 2023-05-13T14:16:00-03:00
 description: "Joguei Prototype e Dragon Ball Xenoverse usando o meu controle de xbox one no linux"
 author: "KitsuneSemCalda"
+
 categories:
   - "Geek"
   - "Tecnology"
@@ -13,9 +14,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 Poiszé, dessa vez eu configurei bastante.

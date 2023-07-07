@@ -3,18 +3,21 @@ title: "Fila"
 date: 2023-05-01T22:32:12-03:00
 description: "Estrutura de dados fila"
 author: "KitsuneSemCalda"
+
 categories:
     - Tecnology
     - Data Structure
 tags:
     - Studying
     - Programming
+
 comments: true
 authorbox: true
 mathjax: true
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### O que é uma fila?

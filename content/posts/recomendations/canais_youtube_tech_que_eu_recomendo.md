@@ -3,6 +3,7 @@ title: "Canais Youtube sobre tecnologia que eu recomendo"
 date: 2023-05-13T11:36:08-03:00
 description: "Quais canais sobre tecnologia eu assisto e recomendo?"
 author: "KitsuneSemCalda"
+
 categories:
   - "Geek"
   - "Tecnology"
@@ -13,9 +14,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 Eae galera, como vocês estão? Hoje vim mostrar alguns canais de tecnologia que eu acompanho e assisto.

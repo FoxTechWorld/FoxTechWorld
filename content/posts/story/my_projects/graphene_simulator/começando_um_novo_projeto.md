@@ -3,6 +3,7 @@ title: "Começando um novo projeto: Graphene Simulator"
 date: 2023-06-10T12:33:00-03:00
 description: "Bora fazer simulação e data visualization"
 author: "KitsuneSemCalda"
+
 categories:
   - "Technology"
 tags:
@@ -13,9 +14,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 Pois é, mais um projetinho para passar bem o feriadão, com isso vamos começar a trabalhar com a simulação de eletronicos utilizando [grafeno](https://pt.wikipedia.org/wiki/Grafeno). No caso, eu quero simular algumas objetos que provavelmente queira trabalhar mais tarde:

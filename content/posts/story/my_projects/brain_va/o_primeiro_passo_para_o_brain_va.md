@@ -3,6 +3,7 @@ title: "O primeiro passo para o brain VA"
 date: 2023-05-05T08:54:31-03:00
 description: "Iniciando o brain VA"
 author: "KitsuneSemCalda"
+
 categories:
   - "Tecnology"
 tags:
@@ -13,9 +14,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 Neste momento, estou interessado em usar o design pattern de factory. E como primeiro passo eu decidi montar a linha de comando (sem argparse) para o projeto.

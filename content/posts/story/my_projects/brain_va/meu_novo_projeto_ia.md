@@ -3,6 +3,7 @@ title: "Meu novo projeto Brain VA"
 date: 2023-05-04T11:03:04-03:00
 description: "Meu projeto de auxilio para criação de Assistente Virtuais"
 author: "KitsuneSemCalda"
+
 categories:
   - "Tecnology"
 tags:
@@ -13,9 +14,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 Essa tarde tive uma ideia sobre como tornar um Virtual Assistente um pouco mais esperto sem necessariamente precisar de uma IA treinada.

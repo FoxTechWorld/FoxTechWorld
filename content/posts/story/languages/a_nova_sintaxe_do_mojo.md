@@ -3,6 +3,7 @@ title: "As novas funcionalidades do mojo"
 date: 2023-05-12T09:11:26-03:00
 description: "O que muda do python para o Mojo?"
 author: "KitsuneSemCalda"
+
 categories:
   - "Tecnology"
 tags:
@@ -12,9 +13,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 No post anterior sobre o Mojo, eu contei um pouquinho sobre a linguagem criada pela empresa do Chris Lattner a Modular, e alguns aspectos interessantes da mesma. 

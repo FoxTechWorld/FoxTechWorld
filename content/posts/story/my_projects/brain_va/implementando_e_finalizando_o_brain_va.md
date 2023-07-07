@@ -2,20 +2,21 @@
 title: "Implementando e finalizando o brain va"
 date: 2023-05-07T09:07:28-03:00
 description: "Implementando as funções da factory do Brain VA e finalizando o projeto"
+author: "KitsuneSemCalda"
 
 categories:
   - "Tecnology"
 tags:
   - "Brain VA"
   - "Programming"
-author: "KitsuneSemCalda"
+
 comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 Chegamos ao ponto final do projetos onde falta terminar de implementar as classes do factory e torna-lo funcional.

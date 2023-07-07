@@ -3,6 +3,7 @@ title: "Como vou customizar meu proxímo linux"
 date: 2023-06-29T09:40:29-03:00
 description: "Algumas dicas do Kitsune para tornar seu linux melhor"
 author: "KitsuneSemCalda"
+
 categories:
   - "Geek"
   - "Plaining"
@@ -13,9 +14,9 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 Olá de novo, Kitsune aqui. Hoje vim explanar uns pensamentos que estou tendo sobre customização do linux.

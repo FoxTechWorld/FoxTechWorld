@@ -3,6 +3,7 @@ title: "Busca em largura"
 date: 2023-05-18T14:05:40-03:00
 description: "Como fazer uma pesquisa de busca em um grafo? Usando busca em largura"
 author: "KitsuneSemCalda"
+
 categories:
   - "Tecnology"
   - "Algorithm"
@@ -14,9 +15,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### Para começar vamos contextualizar o que é um grafo.

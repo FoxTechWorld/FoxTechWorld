@@ -3,6 +3,7 @@ title: "Números pseudo aleatórios"
 date: 2023-05-04T08:39:04-03:00
 description: "Como são gerados números pseudo aleátorios"
 author: "KitsuneSemCalda"
+
 categories:
   - "Mathematical"
   - "Tecnology"
@@ -14,9 +15,9 @@ comments: true
 authorbox: true
 mathjax: true
 
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### O que são números verdadeiramente aleátorios

@@ -3,6 +3,7 @@ title: "Auto privateGPT"
 date: 2023-07-01T16:56:39-03:00
 description: "Para uma smart room, que tal adicionar um GPT privado"
 author: "KitsuneSemCalda"
+
 categories:
   - "Tecnology"
   - "Plaining"
@@ -13,6 +14,7 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
 sitemap:
   changefreq: 'weekly'
   priority: 0.5

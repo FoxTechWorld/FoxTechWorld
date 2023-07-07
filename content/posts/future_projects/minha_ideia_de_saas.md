@@ -15,6 +15,7 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
 sitemap:
   changefreq: 'weekly'
   priority: 0.5
