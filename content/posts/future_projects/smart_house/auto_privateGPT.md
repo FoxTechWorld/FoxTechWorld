@@ -13,9 +13,9 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
-[sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
+sitemap:
+  changefreq: 'weekly'
+  priority: 0.5
 ---
 
 ### Auto PrivateGPT?
