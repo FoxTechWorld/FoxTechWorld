@@ -12,6 +12,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Essa tarde tive uma ideia sobre como tornar um Virtual Assistente um pouco mais esperto sem necessariamente precisar de uma IA treinada.

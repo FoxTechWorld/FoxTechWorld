@@ -13,6 +13,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 ### Para começar vamos contextualizar o que é um grafo.

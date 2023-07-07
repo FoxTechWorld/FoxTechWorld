@@ -12,6 +12,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Pois é, mais um projetinho para passar bem o feriadão, com isso vamos começar a trabalhar com a simulação de eletronicos utilizando [grafeno](https://pt.wikipedia.org/wiki/Grafeno). No caso, eu quero simular algumas objetos que provavelmente queira trabalhar mais tarde:

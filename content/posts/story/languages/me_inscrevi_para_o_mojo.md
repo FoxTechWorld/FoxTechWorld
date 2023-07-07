@@ -11,6 +11,10 @@ author: "KitsuneSemCalda"
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Galera, me inscrevi na lista para testar a nova linguagem de progmamação Mojo, que segundo eles é a combinação perfeita entre a usabilidade do python com a performance do C.

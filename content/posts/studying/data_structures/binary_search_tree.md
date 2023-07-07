@@ -13,6 +13,9 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Para retomar-mos a ideia de estrutura de dados fora da série de grafos, eu decidi dar uma pulada rápida em árvores e depois eu volto em estruturas baseadas em listas. Para quem quiser seguir a ideia linearmente temos este conjunto de [recomendações](https://foxtechworld.github.io/2023/05/canais-youtube-sobre-tecnologia-que-eu-recomendo/).

@@ -12,6 +12,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Neste momento, estou interessado em usar o design pattern de factory. E como primeiro passo eu decidi montar a linha de comando (sem argparse) para o projeto.

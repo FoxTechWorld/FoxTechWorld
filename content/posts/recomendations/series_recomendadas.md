@@ -11,6 +11,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Dando um tempo de posts técnicos, hoje vim mostrar um pouco do meu gosto pessoal para Séries.

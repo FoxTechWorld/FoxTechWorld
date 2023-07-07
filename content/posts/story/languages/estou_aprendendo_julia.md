@@ -12,6 +12,10 @@ author: "KitsuneSemCalda"
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Como [Uncle Bob diz: "Learn at least one new language every year"](https://blog.cleancoder.com/uncle-bob/2016/09/01/TheLurn.html) e eu decidi começar a estudar [Julia](https://www.youtube.com/watch?v=JYs_94znYy0&t=23s&ab_channel=Fireship) por ela poder ser utilizada a fins de simulação e visualização de dados, inclusive criei um repositorio github para [meus aprendizados](https://github.com/KitsuneSemCalda/Learning) onde pretendo deixar algumas coisas que aprendi como linguagens conceitos e etc. Para isto funcionar da forma que espero vou utilizar da ajuda do ChatGPT e do gpt4all para me gerar desafios e prompts de aprendizado inclusive o primeiro prompt que eu dei foi: `Se imagine sendo o professor mais didatico da internet e crie um tutorial com exercicios em julia`.

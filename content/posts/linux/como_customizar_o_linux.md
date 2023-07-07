@@ -13,6 +13,9 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Olá de novo, Kitsune aqui. Hoje vim explanar uns pensamentos que estou tendo sobre customização do linux.

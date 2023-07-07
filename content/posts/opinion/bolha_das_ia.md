@@ -12,6 +12,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 ### Introdução ao tema
 Bem vindos passageiros! Estamos preste a entrar em grande turbulencia graças a chegada da nova bolha tech.

@@ -13,6 +13,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 A lista ligada é uma das estruturas mais simples na matéria de estruturas de dados. 

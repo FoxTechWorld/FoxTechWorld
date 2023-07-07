@@ -12,6 +12,10 @@ author: "KitsuneSemCalda"
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Chegamos ao ponto final do projetos onde falta terminar de implementar as classes do factory e torna-lo funcional.

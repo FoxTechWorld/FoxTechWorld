@@ -14,6 +14,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 ### O que seria o FoxBSD?
 Sim, eu tenho essa ideia de criar um [sistema operacional Unix Like](https://pt.wikipedia.org/wiki/Sistema_operacional_tipo_Unix) desde novinho, algo similar aos [sistemas BSD](https://pt.wikipedia.org/wiki/Berkeley_Software_Distribution) misturando um pouco de [Linux](https://pt.wikipedia.org/wiki/Linux) e [Darwin-Xnu](https://pt.wikipedia.org/wiki/Darwin_(sistema_operacional)). Usando novas ideias sobre o sistema para todos que desejassem um sistema moderno e performatico em hardware modesto e em hardware moderno.

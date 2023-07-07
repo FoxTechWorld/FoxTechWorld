@@ -13,6 +13,10 @@ tags:
 comments: true
 authorbox: true
 mathjax: true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 ---
 
 Se você leu sobre [BFS](https://foxtechworld.github.io/2023/05/busca-em-largura/) e [DFS](https://foxtechworld.github.io/2023/05/busca-em-profundidade/) deve ter percebido que a maioria das pesquisas são relativamente mais rápidas que a força bruta (busca linear). Mas e quando os grafos se tornam gigantescos?

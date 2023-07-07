@@ -122,5 +122,5 @@ maxAge = -1
   enable = true
 
 [sitemap]
-  changefreq = "always"
-  priority = 0.8
+  changefreq = "hourly"
+  priority = 1.0
